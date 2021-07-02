@@ -1,0 +1,2824 @@
+
+[2021-06-14 10:29:56] merlin-logger.DEBUG: The welcome step has been displayed [] []
+
+[2021-06-14 10:30:06] merlin-logger.DEBUG: The welcome step has been displayed [] []
+
+[2021-06-14 10:31:04] merlin-logger.DEBUG: The welcome step has been displayed [] []
+
+[2021-06-14 10:31:24] merlin-logger.DEBUG: The welcome step has been displayed [] []
+
+[2021-06-14 10:31:48] merlin-logger.DEBUG: The welcome step has been displayed [] []
+
+[2021-06-14 10:32:18] merlin-logger.DEBUG: The child theme installation step has been displayed [] []
+
+[2021-06-14 10:32:26] merlin-logger.DEBUG: The child theme style.css content was generated [] []
+
+[2021-06-14 10:32:26] merlin-logger.DEBUG: The child theme functions.php content was generated [] []
+
+[2021-06-14 10:32:26] merlin-logger.DEBUG: The child theme screenshot was copied to the child theme, with the following result {"copied":true} []
+
+[2021-06-14 10:32:27] merlin-logger.DEBUG: The newly generated child theme was activated [] []
+
+[2021-06-14 10:32:32] merlin-logger.DEBUG: The plugin installation step has been displayed [] []
+
+[2021-06-14 10:32:34] merlin-logger.DEBUG: A plugin with the following data will be processed {"plugin_slug":"akomo-plugin","message":"Installing"} []
+
+[2021-06-14 10:32:41] merlin-logger.DEBUG: A plugin with the following data will be processed {"plugin_slug":"akomo-plugin","message":"Activating"} []
+
+[2021-06-14 10:32:43] merlin-logger.DEBUG: A plugin with the following data was processed {"plugin_slug":"akomo-plugin"} []
+
+[2021-06-14 10:32:43] merlin-logger.DEBUG: A plugin with the following data will be processed {"plugin_slug":"contact-form-7","message":"Installing"} []
+
+[2021-06-14 10:32:49] merlin-logger.DEBUG: A plugin with the following data will be processed {"plugin_slug":"contact-form-7","message":"Activating"} []
+
+[2021-06-14 10:32:51] merlin-logger.DEBUG: A plugin with the following data was processed {"plugin_slug":"contact-form-7"} []
+
+[2021-06-14 10:32:51] merlin-logger.DEBUG: A plugin with the following data will be processed {"plugin_slug":"elementor","message":"Installing"} []
+
+[2021-06-14 10:33:18] merlin-logger.DEBUG: A plugin with the following data will be processed {"plugin_slug":"elementor","message":"Activating"} []
+
+[2021-06-14 10:33:23] merlin-logger.DEBUG: A plugin with the following data was processed {"plugin_slug":"elementor"} []
+
+[2021-06-14 10:33:23] merlin-logger.DEBUG: A plugin with the following data will be processed {"plugin_slug":"mailchimp-for-wp","message":"Installing"} []
+
+[2021-06-14 10:33:25] merlin-logger.DEBUG: A plugin with the following data will be processed {"plugin_slug":"mailchimp-for-wp","message":"Installing"} []
+
+[2021-06-14 10:33:25] merlin-logger.DEBUG: A plugin with the following data will be processed {"plugin_slug":"revslider","message":"Installing"} []
+
+[2021-06-14 10:33:40] merlin-logger.DEBUG: A plugin with the following data will be processed {"plugin_slug":"revslider","message":"Activating"} []
+
+[2021-06-14 10:33:51] merlin-logger.DEBUG: A plugin with the following data was processed {"plugin_slug":"revslider"} []
+
+[2021-06-14 10:33:52] merlin-logger.DEBUG: A plugin with the following data will be processed {"plugin_slug":"wp-hotel-booking","message":"Installing"} []
+
+[2021-06-14 10:34:00] merlin-logger.DEBUG: A plugin with the following data will be processed {"plugin_slug":"wp-hotel-booking","message":"Activating"} []
+
+[2021-06-14 10:34:03] merlin-logger.DEBUG: A plugin with the following data was processed {"plugin_slug":"wp-hotel-booking"} []
+
+[2021-06-14 10:34:07] merlin-logger.DEBUG: The content import step has been displayed [] []
+
+[2021-06-14 10:37:02] merlin-logger.INFO: The content import AJAX call will be executed with this import data {"title":"Content","data":"D:\\codeando\\harassanjose/wp-content/themes/akomo/demo-import/content/content.xml"} []
+
+[2021-06-14 10:37:02] merlin-logger.INFO: Imported "Blog Grid View" (category) [] []
+
+[2021-06-14 10:37:02] merlin-logger.DEBUG: Term 17 remapped to 2 [] []
+
+[2021-06-14 10:37:02] merlin-logger.INFO: Imported "Blog List View" (category) [] []
+
+[2021-06-14 10:37:03] merlin-logger.DEBUG: Term 18 remapped to 3 [] []
+
+[2021-06-14 10:37:03] merlin-logger.INFO: Imported "Latest News" (category) [] []
+
+[2021-06-14 10:37:03] merlin-logger.DEBUG: Term 1 remapped to 4 [] []
+
+[2021-06-14 10:37:03] merlin-logger.INFO: Imported "Latest News V2" (category) [] []
+
+[2021-06-14 10:37:03] merlin-logger.DEBUG: Term 8 remapped to 5 [] []
+
+[2021-06-14 10:37:03] merlin-logger.INFO: Imported "Android" (post_tag) [] []
+
+[2021-06-14 10:37:03] merlin-logger.DEBUG: Term 24 remapped to 6 [] []
+
+[2021-06-14 10:37:03] merlin-logger.INFO: Imported "Apps" (post_tag) [] []
+
+[2021-06-14 10:37:03] merlin-logger.DEBUG: Term 23 remapped to 7 [] []
+
+[2021-06-14 10:37:03] merlin-logger.INFO: Imported "Design" (post_tag) [] []
+
+[2021-06-14 10:37:03] merlin-logger.DEBUG: Term 22 remapped to 8 [] []
+
+[2021-06-14 10:37:03] merlin-logger.INFO: Imported "New Blog" (post_tag) [] []
+
+[2021-06-14 10:37:03] merlin-logger.DEBUG: Term 29 remapped to 9 [] []
+
+[2021-06-14 10:37:03] merlin-logger.INFO: Imported "Platform" (post_tag) [] []
+
+[2021-06-14 10:37:03] merlin-logger.DEBUG: Term 26 remapped to 10 [] []
+
+[2021-06-14 10:37:03] merlin-logger.INFO: Imported "Play Store" (post_tag) [] []
+
+[2021-06-14 10:37:03] merlin-logger.DEBUG: Term 27 remapped to 11 [] []
+
+[2021-06-14 10:37:03] merlin-logger.INFO: Imported "Studio" (post_tag) [] []
+
+[2021-06-14 10:37:03] merlin-logger.DEBUG: Term 25 remapped to 12 [] []
+
+[2021-06-14 10:37:03] merlin-logger.INFO: Imported "Time" (post_tag) [] []
+
+[2021-06-14 10:37:03] merlin-logger.DEBUG: Term 28 remapped to 13 [] []
+
+[2021-06-14 10:37:03] merlin-logger.INFO: Imported "2" (hb_room_capacity) [] []
+
+[2021-06-14 10:37:03] merlin-logger.DEBUG: Term 30 remapped to 14 [] []
+
+[2021-06-14 10:37:03] merlin-logger.DEBUG: Meta for term_id 14 : hb_max_number_of_adults => 2 ; successfully added! [] []
+
+[2021-06-14 10:37:03] merlin-logger.INFO: Imported "3" (hb_room_capacity) [] []
+
+[2021-06-14 10:37:03] merlin-logger.DEBUG: Term 31 remapped to 15 [] []
+
+[2021-06-14 10:37:03] merlin-logger.DEBUG: Meta for term_id 15 : hb_max_number_of_adults => 3 ; successfully added! [] []
+
+[2021-06-14 10:37:03] merlin-logger.INFO: Imported "4" (hb_room_capacity) [] []
+
+[2021-06-14 10:37:03] merlin-logger.DEBUG: Term 32 remapped to 16 [] []
+
+[2021-06-14 10:37:03] merlin-logger.DEBUG: Meta for term_id 16 : hb_max_number_of_adults => 4 ; successfully added! [] []
+
+[2021-06-14 10:37:03] merlin-logger.INFO: Imported "5" (hb_room_capacity) [] []
+
+[2021-06-14 10:37:03] merlin-logger.DEBUG: Term 33 remapped to 17 [] []
+
+[2021-06-14 10:37:03] merlin-logger.DEBUG: Meta for term_id 17 : hb_max_number_of_adults => 5 ; successfully added! [] []
+
+[2021-06-14 10:37:03] merlin-logger.INFO: Imported "Comfortable Room" (hb_room_type) [] []
+
+[2021-06-14 10:37:03] merlin-logger.DEBUG: Term 9 remapped to 18 [] []
+
+[2021-06-14 10:37:03] merlin-logger.INFO: Imported "Comfortable Room V2" (hb_room_type) [] []
+
+[2021-06-14 10:37:03] merlin-logger.DEBUG: Term 19 remapped to 19 [] []
+
+[2021-06-14 10:37:03] merlin-logger.INFO: Imported "Deluxe" (hb_room_type) [] []
+
+[2021-06-14 10:37:03] merlin-logger.DEBUG: Term 11 remapped to 20 [] []
+
+[2021-06-14 10:37:03] merlin-logger.INFO: Imported "Luxury" (hb_room_type) [] []
+
+[2021-06-14 10:37:03] merlin-logger.DEBUG: Term 12 remapped to 21 [] []
+
+[2021-06-14 10:37:03] merlin-logger.INFO: Imported "Our Packages V1" (hb_room_type) [] []
+
+[2021-06-14 10:37:03] merlin-logger.DEBUG: Term 10 remapped to 22 [] []
+
+[2021-06-14 10:37:03] merlin-logger.INFO: Imported "Our Packages V2" (hb_room_type) [] []
+
+[2021-06-14 10:37:03] merlin-logger.DEBUG: Term 16 remapped to 23 [] []
+
+[2021-06-14 10:37:03] merlin-logger.INFO: Imported "Our Packages V3" (hb_room_type) [] []
+
+[2021-06-14 10:37:03] merlin-logger.DEBUG: Term 20 remapped to 24 [] []
+
+[2021-06-14 10:37:03] merlin-logger.INFO: Imported "Our Projects" (project_cat) [] []
+
+[2021-06-14 10:37:03] merlin-logger.DEBUG: Term 6 remapped to 25 [] []
+
+[2021-06-14 10:37:03] merlin-logger.INFO: Imported "Our Services" (service_cat) [] []
+
+[2021-06-14 10:37:03] merlin-logger.DEBUG: Term 3 remapped to 26 [] []
+
+[2021-06-14 10:37:03] merlin-logger.INFO: Imported "Our Testimonial" (testimonials_cat) [] []
+
+[2021-06-14 10:37:03] merlin-logger.DEBUG: Term 4 remapped to 27 [] []
+
+[2021-06-14 10:37:03] merlin-logger.INFO: Imported "Our Testimonials V2" (testimonials_cat) [] []
+
+[2021-06-14 10:37:03] merlin-logger.DEBUG: Term 5 remapped to 28 [] []
+
+[2021-06-14 10:37:03] merlin-logger.INFO: Imported "Our Testimonials V3" (testimonials_cat) [] []
+
+[2021-06-14 10:37:03] merlin-logger.DEBUG: Term 7 remapped to 29 [] []
+
+[2021-06-14 10:37:03] merlin-logger.INFO: Imported "Queen" (hb_room_type) [] []
+
+[2021-06-14 10:37:03] merlin-logger.DEBUG: Term 13 remapped to 30 [] []
+
+[2021-06-14 10:37:03] merlin-logger.INFO: Imported "Room List View" (hb_room_type) [] []
+
+[2021-06-14 10:37:03] merlin-logger.DEBUG: Term 21 remapped to 31 [] []
+
+[2021-06-14 10:37:03] merlin-logger.INFO: Imported "Single" (hb_room_type) [] []
+
+[2021-06-14 10:37:03] merlin-logger.DEBUG: Term 14 remapped to 32 [] []
+
+[2021-06-14 10:37:03] merlin-logger.INFO: Imported "Suites" (hb_room_type) [] []
+
+[2021-06-14 10:37:03] merlin-logger.DEBUG: Term 15 remapped to 33 [] []
+
+[2021-06-14 10:37:03] merlin-logger.INFO: Imported "Main Menu" (nav_menu) [] []
+
+[2021-06-14 10:37:03] merlin-logger.DEBUG: Term 2 remapped to 34 [] []
+
+[2021-06-14 10:37:03] merlin-logger.INFO: Imported "Widget Menu" (nav_menu) [] []
+
+[2021-06-14 10:37:03] merlin-logger.DEBUG: Term 34 remapped to 35 [] []
+
+[2021-06-14 10:37:06] merlin-logger.INFO: Imported "4" (Multimedia) [] []
+
+[2021-06-14 10:37:06] merlin-logger.DEBUG: Post 38 remapped to 38 [] []
+
+[2021-06-14 10:37:10] merlin-logger.INFO: Imported "3" (Multimedia) [] []
+
+[2021-06-14 10:37:10] merlin-logger.DEBUG: Post 49 remapped to 49 [] []
+
+[2021-06-14 10:37:12] merlin-logger.INFO: Imported "about-img-2" (Multimedia) [] []
+
+[2021-06-14 10:37:12] merlin-logger.DEBUG: Post 74 remapped to 74 [] []
+
+[2021-06-14 10:37:14] merlin-logger.INFO: Imported "about-img-3" (Multimedia) [] []
+
+[2021-06-14 10:37:14] merlin-logger.DEBUG: Post 75 remapped to 75 [] []
+
+[2021-06-14 10:37:15] merlin-logger.INFO: Imported "about-img-4" (Multimedia) [] []
+
+[2021-06-14 10:37:15] merlin-logger.DEBUG: Post 76 remapped to 76 [] []
+
+[2021-06-14 10:37:16] merlin-logger.INFO: Imported "testi-img-1" (Multimedia) [] []
+
+[2021-06-14 10:37:16] merlin-logger.DEBUG: Post 99 remapped to 99 [] []
+
+[2021-06-14 10:37:17] merlin-logger.INFO: Imported "testi-img-2" (Multimedia) [] []
+
+[2021-06-14 10:37:17] merlin-logger.DEBUG: Post 100 remapped to 100 [] []
+
+[2021-06-14 10:37:19] merlin-logger.INFO: Imported "video-img-2" (Multimedia) [] []
+
+[2021-06-14 10:37:19] merlin-logger.DEBUG: Post 170 remapped to 170 [] []
+
+[2021-06-14 10:37:22] merlin-logger.INFO: Imported "8" (Multimedia) [] []
+
+[2021-06-14 10:37:22] merlin-logger.DEBUG: Post 175 remapped to 175 [] []
+
+[2021-06-14 10:37:22] merlin-logger.INFO: Imported "news-2-1" (Multimedia) [] []
+
+[2021-06-14 10:37:22] merlin-logger.DEBUG: Post 178 remapped to 178 [] []
+
+[2021-06-14 10:37:22] merlin-logger.INFO: New AJAX call! [] []
+
+[2021-06-14 10:37:23] merlin-logger.INFO: The content import AJAX call will be executed with this import data {"title":"Content","data":"D:\\codeando\\harassanjose/wp-content/themes/akomo/demo-import/content/content.xml"} []
+
+[2021-06-14 10:37:24] merlin-logger.INFO: Imported "news-2-3" (Multimedia) [] []
+
+[2021-06-14 10:37:24] merlin-logger.DEBUG: Post 179 remapped to 179 [] []
+
+[2021-06-14 10:37:25] merlin-logger.INFO: Imported "news-bg" (Multimedia) [] []
+
+[2021-06-14 10:37:25] merlin-logger.DEBUG: Post 190 remapped to 190 [] []
+
+[2021-06-14 10:37:26] merlin-logger.INFO: Imported "logo" (Multimedia) [] []
+
+[2021-06-14 10:37:26] merlin-logger.DEBUG: Post 198 remapped to 198 [] []
+
+[2021-06-14 10:37:26] merlin-logger.INFO: Imported "logo-dark" (Multimedia) [] []
+
+[2021-06-14 10:37:26] merlin-logger.DEBUG: Post 199 remapped to 199 [] []
+
+[2021-06-14 10:37:30] merlin-logger.INFO: Imported "5" (Multimedia) [] []
+
+[2021-06-14 10:37:30] merlin-logger.DEBUG: Post 201 remapped to 201 [] []
+
+[2021-06-14 10:37:33] merlin-logger.INFO: Imported "6" (Multimedia) [] []
+
+[2021-06-14 10:37:33] merlin-logger.DEBUG: Post 211 remapped to 211 [] []
+
+[2021-06-14 10:37:36] merlin-logger.INFO: Imported "7" (Multimedia) [] []
+
+[2021-06-14 10:37:36] merlin-logger.DEBUG: Post 230 remapped to 230 [] []
+
+[2021-06-14 10:37:37] merlin-logger.INFO: Imported "testi-img-3" (Multimedia) [] []
+
+[2021-06-14 10:37:37] merlin-logger.DEBUG: Post 235 remapped to 235 [] []
+
+[2021-06-14 10:37:39] merlin-logger.INFO: Imported "gallery-1" (Multimedia) [] []
+
+[2021-06-14 10:37:39] merlin-logger.DEBUG: Post 254 remapped to 254 [] []
+
+[2021-06-14 10:37:40] merlin-logger.INFO: Imported "gallery-2" (Multimedia) [] []
+
+[2021-06-14 10:37:40] merlin-logger.DEBUG: Post 255 remapped to 255 [] []
+
+[2021-06-14 10:37:41] merlin-logger.INFO: Imported "gallery-3" (Multimedia) [] []
+
+[2021-06-14 10:37:41] merlin-logger.DEBUG: Post 256 remapped to 256 [] []
+
+[2021-06-14 10:37:42] merlin-logger.INFO: Imported "gallery-4" (Multimedia) [] []
+
+[2021-06-14 10:37:42] merlin-logger.DEBUG: Post 257 remapped to 257 [] []
+
+[2021-06-14 10:37:44] merlin-logger.INFO: Imported "gallery-5" (Multimedia) [] []
+
+[2021-06-14 10:37:44] merlin-logger.DEBUG: Post 258 remapped to 258 [] []
+
+[2021-06-14 10:37:44] merlin-logger.INFO: New AJAX call! [] []
+
+[2021-06-14 10:37:44] merlin-logger.INFO: The content import AJAX call will be executed with this import data {"title":"Content","data":"D:\\codeando\\harassanjose/wp-content/themes/akomo/demo-import/content/content.xml"} []
+
+[2021-06-14 10:37:46] merlin-logger.INFO: Imported "2" (Multimedia) [] []
+
+[2021-06-14 10:37:46] merlin-logger.DEBUG: Post 275 remapped to 275 [] []
+
+[2021-06-14 10:37:49] merlin-logger.INFO: Imported "image-1" (Multimedia) [] []
+
+[2021-06-14 10:37:49] merlin-logger.DEBUG: Post 289 remapped to 289 [] []
+
+[2021-06-14 10:37:52] merlin-logger.INFO: Imported "image-2" (Multimedia) [] []
+
+[2021-06-14 10:37:52] merlin-logger.DEBUG: Post 290 remapped to 290 [] []
+
+[2021-06-14 10:37:54] merlin-logger.INFO: Imported "about-img-5" (Multimedia) [] []
+
+[2021-06-14 10:37:54] merlin-logger.DEBUG: Post 298 remapped to 298 [] []
+
+[2021-06-14 10:37:56] merlin-logger.INFO: Imported "about-img-6" (Multimedia) [] []
+
+[2021-06-14 10:37:56] merlin-logger.DEBUG: Post 299 remapped to 299 [] []
+
+[2021-06-14 10:37:57] merlin-logger.INFO: Imported "testi-img-2-1" (Multimedia) [] []
+
+[2021-06-14 10:37:57] merlin-logger.DEBUG: Post 313 remapped to 313 [] []
+
+[2021-06-14 10:37:59] merlin-logger.INFO: Imported "testi-img-2-2" (Multimedia) [] []
+
+[2021-06-14 10:37:59] merlin-logger.DEBUG: Post 314 remapped to 314 [] []
+
+[2021-06-14 10:38:00] merlin-logger.INFO: Imported "testi-img-2-3" (Multimedia) [] []
+
+[2021-06-14 10:38:00] merlin-logger.DEBUG: Post 315 remapped to 315 [] []
+
+[2021-06-14 10:38:02] merlin-logger.INFO: Imported "testi-img-2-4" (Multimedia) [] []
+
+[2021-06-14 10:38:02] merlin-logger.DEBUG: Post 316 remapped to 316 [] []
+
+[2021-06-14 10:38:03] merlin-logger.INFO: Imported "news-2-1" (Multimedia) [] []
+
+[2021-06-14 10:38:03] merlin-logger.DEBUG: Post 339 remapped to 339 [] []
+
+[2021-06-14 10:38:04] merlin-logger.INFO: Imported "news-2-2" (Multimedia) [] []
+
+[2021-06-14 10:38:04] merlin-logger.DEBUG: Post 340 remapped to 340 [] []
+
+[2021-06-14 10:38:05] merlin-logger.INFO: Imported "news-2-3" (Multimedia) [] []
+
+[2021-06-14 10:38:05] merlin-logger.DEBUG: Post 341 remapped to 341 [] []
+
+[2021-06-14 10:38:05] merlin-logger.INFO: New AJAX call! [] []
+
+[2021-06-14 10:38:05] merlin-logger.INFO: The content import AJAX call will be executed with this import data {"title":"Content","data":"D:\\codeando\\harassanjose/wp-content/themes/akomo/demo-import/content/content.xml"} []
+
+[2021-06-14 10:38:07] merlin-logger.INFO: Imported "about-img-1" (Multimedia) [] []
+
+[2021-06-14 10:38:07] merlin-logger.DEBUG: Post 367 remapped to 367 [] []
+
+[2021-06-14 10:38:09] merlin-logger.INFO: Imported "room-2-1" (Multimedia) [] []
+
+[2021-06-14 10:38:09] merlin-logger.DEBUG: Post 448 remapped to 448 [] []
+
+[2021-06-14 10:38:10] merlin-logger.INFO: Imported "room-2-2" (Multimedia) [] []
+
+[2021-06-14 10:38:10] merlin-logger.DEBUG: Post 449 remapped to 449 [] []
+
+[2021-06-14 10:38:11] merlin-logger.INFO: Imported "room-2-3" (Multimedia) [] []
+
+[2021-06-14 10:38:11] merlin-logger.DEBUG: Post 450 remapped to 450 [] []
+
+[2021-06-14 10:38:13] merlin-logger.INFO: Imported "package-5" (Multimedia) [] []
+
+[2021-06-14 10:38:13] merlin-logger.DEBUG: Post 471 remapped to 471 [] []
+
+[2021-06-14 10:38:14] merlin-logger.INFO: Imported "room-3-1" (Multimedia) [] []
+
+[2021-06-14 10:38:14] merlin-logger.DEBUG: Post 495 remapped to 495 [] []
+
+[2021-06-14 10:38:15] merlin-logger.INFO: Imported "room-3-2" (Multimedia) [] []
+
+[2021-06-14 10:38:15] merlin-logger.DEBUG: Post 496 remapped to 496 [] []
+
+[2021-06-14 10:38:16] merlin-logger.INFO: Imported "room-3-3" (Multimedia) [] []
+
+[2021-06-14 10:38:16] merlin-logger.DEBUG: Post 497 remapped to 497 [] []
+
+[2021-06-14 10:38:18] merlin-logger.INFO: Imported "room-3-4" (Multimedia) [] []
+
+[2021-06-14 10:38:18] merlin-logger.DEBUG: Post 498 remapped to 498 [] []
+
+[2021-06-14 10:38:19] merlin-logger.INFO: Imported "room-3-5" (Multimedia) [] []
+
+[2021-06-14 10:38:19] merlin-logger.DEBUG: Post 499 remapped to 499 [] []
+
+[2021-06-14 10:38:20] merlin-logger.INFO: Imported "package-2-1" (Multimedia) [] []
+
+[2021-06-14 10:38:20] merlin-logger.DEBUG: Post 517 remapped to 517 [] []
+
+[2021-06-14 10:38:21] merlin-logger.INFO: Imported "package-2-2" (Multimedia) [] []
+
+[2021-06-14 10:38:21] merlin-logger.DEBUG: Post 518 remapped to 518 [] []
+
+[2021-06-14 10:38:22] merlin-logger.INFO: Imported "package-2-3" (Multimedia) [] []
+
+[2021-06-14 10:38:22] merlin-logger.DEBUG: Post 519 remapped to 519 [] []
+
+[2021-06-14 10:38:24] merlin-logger.INFO: Imported "package-2-4" (Multimedia) [] []
+
+[2021-06-14 10:38:24] merlin-logger.DEBUG: Post 520 remapped to 520 [] []
+
+[2021-06-14 10:38:25] merlin-logger.INFO: Imported "news-4" (Multimedia) [] []
+
+[2021-06-14 10:38:25] merlin-logger.DEBUG: Post 533 remapped to 533 [] []
+
+[2021-06-14 10:38:26] merlin-logger.INFO: Imported "news-thumb-1" (Multimedia) [] []
+
+[2021-06-14 10:38:26] merlin-logger.DEBUG: Post 534 remapped to 534 [] []
+
+[2021-06-14 10:38:26] merlin-logger.INFO: New AJAX call! [] []
+
+[2021-06-14 10:38:26] merlin-logger.INFO: The content import AJAX call will be executed with this import data {"title":"Content","data":"D:\\codeando\\harassanjose/wp-content/themes/akomo/demo-import/content/content.xml"} []
+
+[2021-06-14 10:38:27] merlin-logger.INFO: Imported "news-thumb-2" (Multimedia) [] []
+
+[2021-06-14 10:38:27] merlin-logger.DEBUG: Post 535 remapped to 535 [] []
+
+[2021-06-14 10:38:28] merlin-logger.INFO: Imported "news-thumb-3" (Multimedia) [] []
+
+[2021-06-14 10:38:28] merlin-logger.DEBUG: Post 536 remapped to 536 [] []
+
+[2021-06-14 10:38:28] merlin-logger.INFO: Imported "news-thumb-4" (Multimedia) [] []
+
+[2021-06-14 10:38:28] merlin-logger.DEBUG: Post 537 remapped to 537 [] []
+
+[2021-06-14 10:38:30] merlin-logger.INFO: Imported "room-3-1" (Multimedia) [] []
+
+[2021-06-14 10:38:30] merlin-logger.DEBUG: Post 557 remapped to 557 [] []
+
+[2021-06-14 10:38:31] merlin-logger.INFO: Imported "room-4-1" (Multimedia) [] []
+
+[2021-06-14 10:38:31] merlin-logger.DEBUG: Post 558 remapped to 558 [] []
+
+[2021-06-14 10:38:33] merlin-logger.INFO: Imported "room-4-2" (Multimedia) [] []
+
+[2021-06-14 10:38:33] merlin-logger.DEBUG: Post 559 remapped to 559 [] []
+
+[2021-06-14 10:38:34] merlin-logger.INFO: Imported "package-6" (Multimedia) [] []
+
+[2021-06-14 10:38:34] merlin-logger.DEBUG: Post 586 remapped to 586 [] []
+
+[2021-06-14 10:38:36] merlin-logger.INFO: Imported "room-4" (Multimedia) [] []
+
+[2021-06-14 10:38:36] merlin-logger.DEBUG: Post 624 remapped to 624 [] []
+
+[2021-06-14 10:38:37] merlin-logger.INFO: Imported "room-5" (Multimedia) [] []
+
+[2021-06-14 10:38:37] merlin-logger.DEBUG: Post 625 remapped to 625 [] []
+
+[2021-06-14 10:38:38] merlin-logger.INFO: Imported "room-6" (Multimedia) [] []
+
+[2021-06-14 10:38:38] merlin-logger.DEBUG: Post 626 remapped to 626 [] []
+
+[2021-06-14 10:38:41] merlin-logger.INFO: Imported "video-img" (Multimedia) [] []
+
+[2021-06-14 10:38:41] merlin-logger.DEBUG: Post 636 remapped to 636 [] []
+
+[2021-06-14 10:38:42] merlin-logger.INFO: Imported "room-list-1" (Multimedia) [] []
+
+[2021-06-14 10:38:42] merlin-logger.DEBUG: Post 708 remapped to 708 [] []
+
+[2021-06-14 10:38:43] merlin-logger.INFO: Imported "room-list-2" (Multimedia) [] []
+
+[2021-06-14 10:38:43] merlin-logger.DEBUG: Post 709 remapped to 709 [] []
+
+[2021-06-14 10:38:44] merlin-logger.INFO: Imported "room-list-3" (Multimedia) [] []
+
+[2021-06-14 10:38:44] merlin-logger.DEBUG: Post 710 remapped to 710 [] []
+
+[2021-06-14 10:38:45] merlin-logger.INFO: Imported "room-list-4" (Multimedia) [] []
+
+[2021-06-14 10:38:45] merlin-logger.DEBUG: Post 711 remapped to 711 [] []
+
+[2021-06-14 10:38:46] merlin-logger.INFO: Imported "room-list-5" (Multimedia) [] []
+
+[2021-06-14 10:38:46] merlin-logger.DEBUG: Post 712 remapped to 712 [] []
+
+[2021-06-14 10:38:46] merlin-logger.INFO: New AJAX call! [] []
+
+[2021-06-14 10:38:47] merlin-logger.INFO: The content import AJAX call will be executed with this import data {"title":"Content","data":"D:\\codeando\\harassanjose/wp-content/themes/akomo/demo-import/content/content.xml"} []
+
+[2021-06-14 10:38:48] merlin-logger.INFO: Imported "room-list-6" (Multimedia) [] []
+
+[2021-06-14 10:38:48] merlin-logger.DEBUG: Post 713 remapped to 713 [] []
+
+[2021-06-14 10:38:49] merlin-logger.INFO: Imported "logo" (Multimedia) [] []
+
+[2021-06-14 10:38:49] merlin-logger.DEBUG: Post 748 remapped to 748 [] []
+
+[2021-06-14 10:38:50] merlin-logger.INFO: Imported "room-7" (Multimedia) [] []
+
+[2021-06-14 10:38:50] merlin-logger.DEBUG: Post 764 remapped to 764 [] []
+
+[2021-06-14 10:38:51] merlin-logger.INFO: Imported "room-9" (Multimedia) [] []
+
+[2021-06-14 10:38:51] merlin-logger.DEBUG: Post 765 remapped to 765 [] []
+
+[2021-06-14 10:38:52] merlin-logger.INFO: Imported "room-8" (Multimedia) [] []
+
+[2021-06-14 10:38:52] merlin-logger.DEBUG: Post 769 remapped to 769 [] []
+
+[2021-06-14 10:38:54] merlin-logger.INFO: Imported "room-6" (Multimedia) [] []
+
+[2021-06-14 10:38:54] merlin-logger.DEBUG: Post 778 remapped to 778 [] []
+
+[2021-06-14 10:38:55] merlin-logger.INFO: Imported "room-1" (Multimedia) [] []
+
+[2021-06-14 10:38:55] merlin-logger.DEBUG: Post 779 remapped to 779 [] []
+
+[2021-06-14 10:38:56] merlin-logger.INFO: Imported "room-2" (Multimedia) [] []
+
+[2021-06-14 10:38:56] merlin-logger.DEBUG: Post 780 remapped to 780 [] []
+
+[2021-06-14 10:38:58] merlin-logger.INFO: Imported "room-detail-1" (Multimedia) [] []
+
+[2021-06-14 10:38:58] merlin-logger.DEBUG: Post 796 remapped to 796 [] []
+
+[2021-06-14 10:39:00] merlin-logger.INFO: Imported "room-detail-2" (Multimedia) [] []
+
+[2021-06-14 10:39:00] merlin-logger.DEBUG: Post 797 remapped to 797 [] []
+
+[2021-06-14 10:39:02] merlin-logger.INFO: Imported "room-detail-3" (Multimedia) [] []
+
+[2021-06-14 10:39:02] merlin-logger.DEBUG: Post 798 remapped to 798 [] []
+
+[2021-06-14 10:39:04] merlin-logger.INFO: Imported "room-detail-4" (Multimedia) [] []
+
+[2021-06-14 10:39:04] merlin-logger.DEBUG: Post 799 remapped to 799 [] []
+
+[2021-06-14 10:39:06] merlin-logger.INFO: Imported "2" (Multimedia) [] []
+
+[2021-06-14 10:39:06] merlin-logger.DEBUG: Post 820 remapped to 820 [] []
+
+[2021-06-14 10:39:06] merlin-logger.INFO: Imported "Default Kit" (Plantilla) [] []
+
+[2021-06-14 10:39:06] merlin-logger.DEBUG: Post 16 remapped to 16 [] []
+
+[2021-06-14 10:39:09] merlin-logger.INFO: Imported "8" (Multimedia) [] []
+
+[2021-06-14 10:39:09] merlin-logger.DEBUG: Post 821 remapped to 821 [] []
+
+[2021-06-14 10:39:09] merlin-logger.INFO: New AJAX call! [] []
+
+[2021-06-14 10:39:10] merlin-logger.INFO: The content import AJAX call will be executed with this import data {"title":"Content","data":"D:\\codeando\\harassanjose/wp-content/themes/akomo/demo-import/content/content.xml"} []
+
+[2021-06-14 10:39:11] merlin-logger.INFO: Imported "news-image-20" (Multimedia) [] []
+
+[2021-06-14 10:39:11] merlin-logger.DEBUG: Post 839 remapped to 839 [] []
+
+[2021-06-14 10:39:13] merlin-logger.INFO: Imported "news-image-16" (Multimedia) [] []
+
+[2021-06-14 10:39:13] merlin-logger.DEBUG: Post 840 remapped to 840 [] []
+
+[2021-06-14 10:39:14] merlin-logger.INFO: Imported "news-image-17" (Multimedia) [] []
+
+[2021-06-14 10:39:14] merlin-logger.DEBUG: Post 841 remapped to 841 [] []
+
+[2021-06-14 10:39:16] merlin-logger.INFO: Imported "news-image-18" (Multimedia) [] []
+
+[2021-06-14 10:39:16] merlin-logger.DEBUG: Post 842 remapped to 842 [] []
+
+[2021-06-14 10:39:17] merlin-logger.INFO: Imported "news-image-19" (Multimedia) [] []
+
+[2021-06-14 10:39:17] merlin-logger.DEBUG: Post 843 remapped to 843 [] []
+
+[2021-06-14 10:39:20] merlin-logger.INFO: Imported "room-detail-4" (Multimedia) [] []
+
+[2021-06-14 10:39:20] merlin-logger.DEBUG: Post 858 remapped to 858 [] []
+
+[2021-06-14 10:39:22] merlin-logger.INFO: Imported "room-detail-1" (Multimedia) [] []
+
+[2021-06-14 10:39:22] merlin-logger.DEBUG: Post 859 remapped to 859 [] []
+
+[2021-06-14 10:39:24] merlin-logger.INFO: Imported "room-detail-2" (Multimedia) [] []
+
+[2021-06-14 10:39:24] merlin-logger.DEBUG: Post 860 remapped to 860 [] []
+
+[2021-06-14 10:39:26] merlin-logger.INFO: Imported "room-detail-3" (Multimedia) [] []
+
+[2021-06-14 10:39:26] merlin-logger.DEBUG: Post 861 remapped to 861 [] []
+
+[2021-06-14 10:39:26] merlin-logger.INFO: Imported "Wifi" (Extra Room) [] []
+
+[2021-06-14 10:39:26] merlin-logger.DEBUG: Post 864 remapped to 864 [] []
+
+[2021-06-14 10:39:29] merlin-logger.INFO: Imported "13" (Multimedia) [] []
+
+[2021-06-14 10:39:29] merlin-logger.DEBUG: Post 927 remapped to 927 [] []
+
+[2021-06-14 10:39:32] merlin-logger.INFO: Imported "14" (Multimedia) [] []
+
+[2021-06-14 10:39:32] merlin-logger.DEBUG: Post 928 remapped to 928 [] []
+
+[2021-06-14 10:39:32] merlin-logger.INFO: New AJAX call! [] []
+
+[2021-06-14 10:39:33] merlin-logger.INFO: The content import AJAX call will be executed with this import data {"title":"Content","data":"D:\\codeando\\harassanjose/wp-content/themes/akomo/demo-import/content/content.xml"} []
+
+[2021-06-14 10:39:36] merlin-logger.INFO: Imported "8" (Multimedia) [] []
+
+[2021-06-14 10:39:36] merlin-logger.DEBUG: Post 935 remapped to 935 [] []
+
+[2021-06-14 10:39:39] merlin-logger.INFO: Imported "9" (Multimedia) [] []
+
+[2021-06-14 10:39:39] merlin-logger.DEBUG: Post 936 remapped to 936 [] []
+
+[2021-06-14 10:39:42] merlin-logger.INFO: Imported "10" (Multimedia) [] []
+
+[2021-06-14 10:39:42] merlin-logger.DEBUG: Post 937 remapped to 937 [] []
+
+[2021-06-14 10:39:44] merlin-logger.INFO: Imported "banner-image-2" (Multimedia) [] []
+
+[2021-06-14 10:39:44] merlin-logger.DEBUG: Post 941 remapped to 941 [] []
+
+[2021-06-14 10:39:46] merlin-logger.INFO: Imported "Logo-Akomo-Black" (Multimedia) [] []
+
+[2021-06-14 10:39:46] merlin-logger.DEBUG: Post 1001 remapped to 1001 [] []
+
+[2021-06-14 10:39:47] merlin-logger.INFO: Imported "Logo-Akomo-White" (Multimedia) [] []
+
+[2021-06-14 10:39:47] merlin-logger.DEBUG: Post 1002 remapped to 1002 [] []
+
+[2021-06-14 10:39:47] merlin-logger.INFO: Imported "Apartment Signature Balcony Room" (Room) [] []
+
+[2021-06-14 10:39:47] merlin-logger.DEBUG: Post 447 remapped to 447 [] []
+
+[2021-06-14 10:39:47] merlin-logger.INFO: Imported "Queen Deluxe Room Balcony" (Room) [] []
+
+[2021-06-14 10:39:47] merlin-logger.DEBUG: Post 452 remapped to 452 [] []
+
+[2021-06-14 10:39:47] merlin-logger.INFO: Imported "Lake View Luxury Room Balcony" (Room) [] []
+
+[2021-06-14 10:39:47] merlin-logger.DEBUG: Post 454 remapped to 454 [] []
+
+[2021-06-14 10:39:47] merlin-logger.INFO: Imported "Luxury Cottage Double Signature <br>Bedroom Suite" (Room) [] []
+
+[2021-06-14 10:39:47] merlin-logger.DEBUG: Post 470 remapped to 470 [] []
+
+[2021-06-14 10:39:48] merlin-logger.INFO: Imported "Apartment Signature Balcony Room" (Room) [] []
+
+[2021-06-14 10:39:48] merlin-logger.DEBUG: Post 494 remapped to 494 [] []
+
+[2021-06-14 10:39:48] merlin-logger.INFO: Imported "Apartment Signature Room" (Room) [] []
+
+[2021-06-14 10:39:48] merlin-logger.DEBUG: Post 501 remapped to 501 [] []
+
+[2021-06-14 10:39:48] merlin-logger.INFO: Imported "Apartment Signature Room" (Room) [] []
+
+[2021-06-14 10:39:48] merlin-logger.DEBUG: Post 503 remapped to 503 [] []
+
+[2021-06-14 10:39:48] merlin-logger.INFO: Imported "Apartment Signature Room" (Room) [] []
+
+[2021-06-14 10:39:48] merlin-logger.DEBUG: Post 506 remapped to 506 [] []
+
+[2021-06-14 10:39:48] merlin-logger.INFO: Imported "Apartment Signature Room" (Room) [] []
+
+[2021-06-14 10:39:48] merlin-logger.DEBUG: Post 508 remapped to 508 [] []
+
+[2021-06-14 10:39:48] merlin-logger.INFO: Imported "Luxury Cottage Signature <br>Bedroom Suite" (Room) [] []
+
+[2021-06-14 10:39:48] merlin-logger.DEBUG: Post 516 remapped to 516 [] []
+
+[2021-06-14 10:39:48] merlin-logger.INFO: Imported "Luxury Cottage Signature <br>Bedroom Suite" (Room) [] []
+
+[2021-06-14 10:39:48] merlin-logger.DEBUG: Post 523 remapped to 523 [] []
+
+[2021-06-14 10:39:48] merlin-logger.INFO: Imported "Luxury Cottage Signature <br>Bedroom Suite" (Room) [] []
+
+[2021-06-14 10:39:48] merlin-logger.DEBUG: Post 524 remapped to 524 [] []
+
+[2021-06-14 10:39:48] merlin-logger.INFO: Imported "Luxury Cottage Signature <br>Bedroom Suite" (Room) [] []
+
+[2021-06-14 10:39:48] merlin-logger.DEBUG: Post 525 remapped to 525 [] []
+
+[2021-06-14 10:39:48] merlin-logger.INFO: Imported "Apartment Signature Balcony Room" (Room) [] []
+
+[2021-06-14 10:39:48] merlin-logger.DEBUG: Post 556 remapped to 556 [] []
+
+[2021-06-14 10:39:48] merlin-logger.INFO: Imported "Apartment Signature Balcony Room" (Room) [] []
+
+[2021-06-14 10:39:48] merlin-logger.DEBUG: Post 562 remapped to 562 [] []
+
+[2021-06-14 10:39:48] merlin-logger.INFO: Imported "Apartment Signature Balcony Room" (Room) [] []
+
+[2021-06-14 10:39:48] merlin-logger.DEBUG: Post 563 remapped to 563 [] []
+
+[2021-06-14 10:39:48] merlin-logger.INFO: Imported "Luxury Cottage Double Signature <br>Bedroom Suite" (Room) [] []
+
+[2021-06-14 10:39:48] merlin-logger.DEBUG: Post 584 remapped to 584 [] []
+
+[2021-06-14 10:39:48] merlin-logger.INFO: Imported "Luxury Cottage Double Signature <br>Bedroom Suite" (Room) [] []
+
+[2021-06-14 10:39:48] merlin-logger.DEBUG: Post 590 remapped to 590 [] []
+
+[2021-06-14 10:39:48] merlin-logger.INFO: Imported "Luxury Cottage Double Signature <br>Bedroom Suite" (Room) [] []
+
+[2021-06-14 10:39:48] merlin-logger.DEBUG: Post 591 remapped to 591 [] []
+
+[2021-06-14 10:39:49] merlin-logger.INFO: Imported "Parking" (Extra Room) [] []
+
+[2021-06-14 10:39:49] merlin-logger.DEBUG: Post 865 remapped to 865 [] []
+
+[2021-06-14 10:39:49] merlin-logger.WARNING: Failed to import "": Invalid post type mc4wp-form [] []
+
+[2021-06-14 10:39:49] merlin-logger.INFO: Imported "Apartment Signature Balcony Room" (Room) [] []
+
+[2021-06-14 10:39:49] merlin-logger.DEBUG: Post 621 remapped to 621 [] []
+
+[2021-06-14 10:39:49] merlin-logger.INFO: Imported "Apartment Signature Balcony Room" (Room) [] []
+
+[2021-06-14 10:39:49] merlin-logger.DEBUG: Post 622 remapped to 622 [] []
+
+[2021-06-14 10:39:49] merlin-logger.INFO: Imported "Apartment Signature Balcony Room" (Room) [] []
+
+[2021-06-14 10:39:49] merlin-logger.DEBUG: Post 623 remapped to 623 [] []
+
+[2021-06-14 10:39:49] merlin-logger.INFO: Imported "Apartment Signature Balcony Room" (Room) [] []
+
+[2021-06-14 10:39:49] merlin-logger.DEBUG: Post 707 remapped to 707 [] []
+
+[2021-06-14 10:39:49] merlin-logger.INFO: Imported "Disclosing the Secrets of Success in Akomo." (Room) [] []
+
+[2021-06-14 10:39:49] merlin-logger.DEBUG: Post 715 remapped to 715 [] []
+
+[2021-06-14 10:39:49] merlin-logger.INFO: Imported "The Top Hotel Trends to Watch in 2020." (Room) [] []
+
+[2021-06-14 10:39:49] merlin-logger.DEBUG: Post 717 remapped to 717 [] []
+
+[2021-06-14 10:39:49] merlin-logger.INFO: Imported "Apartment Signature Balcony Room" (Room) [] []
+
+[2021-06-14 10:39:49] merlin-logger.DEBUG: Post 733 remapped to 733 [] []
+
+[2021-06-14 10:39:49] merlin-logger.INFO: Imported "The Top Hotel Trends to Watch in 2020." (Room) [] []
+
+[2021-06-14 10:39:49] merlin-logger.DEBUG: Post 741 remapped to 741 [] []
+
+[2021-06-14 10:39:49] merlin-logger.INFO: Imported "Apartment Signature Balcony Room" (Room) [] []
+
+[2021-06-14 10:39:49] merlin-logger.DEBUG: Post 746 remapped to 746 [] []
+
+[2021-06-14 10:39:49] merlin-logger.INFO: Imported "Apartment Signature Balcony Room" (Room) [] []
+
+[2021-06-14 10:39:49] merlin-logger.DEBUG: Post 763 remapped to 763 [] []
+
+[2021-06-14 10:39:49] merlin-logger.INFO: Imported "Disclosing the Secrets of Success in Akomo." (Room) [] []
+
+[2021-06-14 10:39:49] merlin-logger.DEBUG: Post 767 remapped to 767 [] []
+
+[2021-06-14 10:39:49] merlin-logger.INFO: Imported "The Top Hotel Trends to Watch in 2020." (Room) [] []
+
+[2021-06-14 10:39:49] merlin-logger.DEBUG: Post 771 remapped to 771 [] []
+
+[2021-06-14 10:39:49] merlin-logger.INFO: Imported "Apartment Signature Balcony Room" (Room) [] []
+
+[2021-06-14 10:39:49] merlin-logger.DEBUG: Post 776 remapped to 776 [] []
+
+[2021-06-14 10:39:49] merlin-logger.INFO: Imported "Queen Deluxe Double Signature Room Balcony" (Room) [] []
+
+[2021-06-14 10:39:49] merlin-logger.DEBUG: Post 929 remapped to 929 [] []
+
+[2021-06-14 10:39:49] merlin-logger.INFO: Imported "Lake View Luxury Double Signature Room Balcony" (Room) [] []
+
+[2021-06-14 10:39:49] merlin-logger.DEBUG: Post 930 remapped to 930 [] []
+
+[2021-06-14 10:39:50] merlin-logger.INFO: Imported "Apartment Double Signature Balcony Room" (Room) [] []
+
+[2021-06-14 10:39:50] merlin-logger.DEBUG: Post 931 remapped to 931 [] []
+
+[2021-06-14 10:39:50] merlin-logger.INFO: Imported "" (Elemento del menú de navegación) [] []
+
+[2021-06-14 10:39:50] merlin-logger.DEBUG: Post 946 remapped to 946 [] []
+
+[2021-06-14 10:39:50] merlin-logger.DEBUG: Processing menu item post_type [] []
+
+[2021-06-14 10:39:50] merlin-logger.INFO: Imported "" (Elemento del menú de navegación) [] []
+
+[2021-06-14 10:39:50] merlin-logger.DEBUG: Post 948 remapped to 948 [] []
+
+[2021-06-14 10:39:50] merlin-logger.DEBUG: Processing menu item post_type [] []
+
+[2021-06-14 10:39:50] merlin-logger.INFO: Imported "" (Elemento del menú de navegación) [] []
+
+[2021-06-14 10:39:50] merlin-logger.DEBUG: Post 949 remapped to 949 [] []
+
+[2021-06-14 10:39:50] merlin-logger.DEBUG: Processing menu item post_type [] []
+
+[2021-06-14 10:39:50] merlin-logger.INFO: Imported "Home" (Elemento del menú de navegación) [] []
+
+[2021-06-14 10:39:50] merlin-logger.DEBUG: Post 26 remapped to 26 [] []
+
+[2021-06-14 10:39:50] merlin-logger.DEBUG: Processing menu item custom [] []
+
+[2021-06-14 10:39:50] merlin-logger.DEBUG: Menu item 26 mapped to 26 [] []
+
+[2021-06-14 10:39:50] merlin-logger.INFO: Imported "" (Elemento del menú de navegación) [] []
+
+[2021-06-14 10:39:50] merlin-logger.DEBUG: Post 27 remapped to 27 [] []
+
+[2021-06-14 10:39:50] merlin-logger.DEBUG: Processing menu item post_type [] []
+
+[2021-06-14 10:39:50] merlin-logger.INFO: Imported "" (Elemento del menú de navegación) [] []
+
+[2021-06-14 10:39:50] merlin-logger.DEBUG: Post 28 remapped to 28 [] []
+
+[2021-06-14 10:39:50] merlin-logger.DEBUG: Processing menu item post_type [] []
+
+[2021-06-14 10:39:50] merlin-logger.INFO: Imported "" (Elemento del menú de navegación) [] []
+
+[2021-06-14 10:39:50] merlin-logger.DEBUG: Post 29 remapped to 29 [] []
+
+[2021-06-14 10:39:50] merlin-logger.DEBUG: Processing menu item post_type [] []
+
+[2021-06-14 10:39:50] merlin-logger.INFO: Imported "" (Elemento del menú de navegación) [] []
+
+[2021-06-14 10:39:50] merlin-logger.DEBUG: Post 30 remapped to 30 [] []
+
+[2021-06-14 10:39:50] merlin-logger.DEBUG: Processing menu item post_type [] []
+
+[2021-06-14 10:39:50] merlin-logger.INFO: Imported "" (Elemento del menú de navegación) [] []
+
+[2021-06-14 10:39:50] merlin-logger.DEBUG: Post 437 remapped to 437 [] []
+
+[2021-06-14 10:39:50] merlin-logger.DEBUG: Processing menu item post_type [] []
+
+[2021-06-14 10:39:50] merlin-logger.INFO: Imported "Rooms" (Elemento del menú de navegación) [] []
+
+[2021-06-14 10:39:50] merlin-logger.DEBUG: Post 640 remapped to 640 [] []
+
+[2021-06-14 10:39:50] merlin-logger.DEBUG: Processing menu item custom [] []
+
+[2021-06-14 10:39:50] merlin-logger.DEBUG: Menu item 640 mapped to 640 [] []
+
+[2021-06-14 10:39:50] merlin-logger.INFO: Imported "News" (Elemento del menú de navegación) [] []
+
+[2021-06-14 10:39:50] merlin-logger.DEBUG: Post 641 remapped to 641 [] []
+
+[2021-06-14 10:39:50] merlin-logger.DEBUG: Processing menu item custom [] []
+
+[2021-06-14 10:39:50] merlin-logger.DEBUG: Menu item 641 mapped to 641 [] []
+
+[2021-06-14 10:39:50] merlin-logger.INFO: Imported "" (Elemento del menú de navegación) [] []
+
+[2021-06-14 10:39:50] merlin-logger.DEBUG: Post 647 remapped to 647 [] []
+
+[2021-06-14 10:39:50] merlin-logger.DEBUG: Processing menu item post_type [] []
+
+[2021-06-14 10:39:50] merlin-logger.INFO: Imported "" (Elemento del menú de navegación) [] []
+
+[2021-06-14 10:39:50] merlin-logger.DEBUG: Post 705 remapped to 705 [] []
+
+[2021-06-14 10:39:50] merlin-logger.DEBUG: Processing menu item post_type [] []
+
+[2021-06-14 10:39:50] merlin-logger.INFO: Imported "" (Elemento del menú de navegación) [] []
+
+[2021-06-14 10:39:50] merlin-logger.DEBUG: Post 706 remapped to 706 [] []
+
+[2021-06-14 10:39:51] merlin-logger.DEBUG: Processing menu item post_type [] []
+
+[2021-06-14 10:39:51] merlin-logger.INFO: Imported "" (Elemento del menú de navegación) [] []
+
+[2021-06-14 10:39:51] merlin-logger.DEBUG: Post 804 remapped to 804 [] []
+
+[2021-06-14 10:39:51] merlin-logger.DEBUG: Processing menu item post_type [] []
+
+[2021-06-14 10:39:51] merlin-logger.INFO: Imported "" (Elemento del menú de navegación) [] []
+
+[2021-06-14 10:39:51] merlin-logger.DEBUG: Post 819 remapped to 819 [] []
+
+[2021-06-14 10:39:51] merlin-logger.DEBUG: Processing menu item post_type [] []
+
+[2021-06-14 10:39:51] merlin-logger.INFO: Imported "Error Page" (Elemento del menú de navegación) [] []
+
+[2021-06-14 10:39:51] merlin-logger.DEBUG: Post 822 remapped to 822 [] []
+
+[2021-06-14 10:39:51] merlin-logger.DEBUG: Processing menu item custom [] []
+
+[2021-06-14 10:39:51] merlin-logger.DEBUG: Menu item 822 mapped to 822 [] []
+
+[2021-06-14 10:39:51] merlin-logger.INFO: Imported "Blog Single" (Elemento del menú de navegación) [] []
+
+[2021-06-14 10:39:51] merlin-logger.DEBUG: Post 824 remapped to 824 [] []
+
+[2021-06-14 10:39:51] merlin-logger.DEBUG: Processing menu item custom [] []
+
+[2021-06-14 10:39:51] merlin-logger.DEBUG: Menu item 824 mapped to 824 [] []
+
+[2021-06-14 10:39:51] merlin-logger.INFO: Imported "Room Single" (Elemento del menú de navegación) [] []
+
+[2021-06-14 10:39:51] merlin-logger.DEBUG: Post 926 remapped to 926 [] []
+
+[2021-06-14 10:39:51] merlin-logger.DEBUG: Processing menu item post_type [] []
+
+[2021-06-14 10:39:51] merlin-logger.DEBUG: Menu item 771 mapped to 771 [] []
+
+[2021-06-14 10:39:51] merlin-logger.INFO: Imported "Apartment Balcony Room" (Elemento del menú de navegación) [] []
+
+[2021-06-14 10:39:51] merlin-logger.DEBUG: Post 950 remapped to 950 [] []
+
+[2021-06-14 10:39:51] merlin-logger.DEBUG: Processing menu item post_type [] []
+
+[2021-06-14 10:39:51] merlin-logger.DEBUG: Menu item 776 mapped to 776 [] []
+
+[2021-06-14 10:39:51] merlin-logger.INFO: Imported "Header Styles" (Elemento del menú de navegación) [] []
+
+[2021-06-14 10:39:51] merlin-logger.DEBUG: Post 957 remapped to 957 [] []
+
+[2021-06-14 10:39:51] merlin-logger.DEBUG: Processing menu item custom [] []
+
+[2021-06-14 10:39:51] merlin-logger.DEBUG: Menu item 957 mapped to 957 [] []
+
+[2021-06-14 10:39:51] merlin-logger.INFO: Imported "Header Style Four" (Elemento del menú de navegación) [] []
+
+[2021-06-14 10:39:51] merlin-logger.DEBUG: Post 958 remapped to 958 [] []
+
+[2021-06-14 10:39:51] merlin-logger.DEBUG: Processing menu item post_type [] []
+
+[2021-06-14 10:39:51] merlin-logger.INFO: Imported "Header Style Three" (Elemento del menú de navegación) [] []
+
+[2021-06-14 10:39:51] merlin-logger.DEBUG: Post 959 remapped to 959 [] []
+
+[2021-06-14 10:39:51] merlin-logger.DEBUG: Processing menu item post_type [] []
+
+[2021-06-14 10:39:51] merlin-logger.INFO: Imported "Hotel Rooms" (Página) [] []
+
+[2021-06-14 10:39:51] merlin-logger.DEBUG: Post 9 remapped to 1003 [] []
+
+[2021-06-14 10:39:51] merlin-logger.INFO: Imported "Hotel Cart" (Página) [] []
+
+[2021-06-14 10:39:51] merlin-logger.DEBUG: Post 10 remapped to 1004 [] []
+
+[2021-06-14 10:39:51] merlin-logger.INFO: Imported "Hotel Checkout" (Página) [] []
+
+[2021-06-14 10:39:51] merlin-logger.DEBUG: Post 11 remapped to 1005 [] []
+
+[2021-06-14 10:39:51] merlin-logger.INFO: Imported "Hotel Booking Search" (Página) [] []
+
+[2021-06-14 10:39:51] merlin-logger.DEBUG: Post 12 remapped to 1006 [] []
+
+[2021-06-14 10:39:51] merlin-logger.INFO: Imported "Hotel Account" (Página) [] []
+
+[2021-06-14 10:39:51] merlin-logger.DEBUG: Post 13 remapped to 13 [] []
+
+[2021-06-14 10:39:51] merlin-logger.INFO: Imported "Terms and Conditions" (Página) [] []
+
+[2021-06-14 10:39:51] merlin-logger.DEBUG: Post 14 remapped to 14 [] []
+
+[2021-06-14 10:39:51] merlin-logger.INFO: Imported "Hotel Thank You" (Página) [] []
+
+[2021-06-14 10:39:51] merlin-logger.DEBUG: Post 15 remapped to 15 [] []
+
+[2021-06-14 10:39:51] merlin-logger.INFO: Imported "Home Page 01" (Página) [] []
+
+[2021-06-14 10:39:51] merlin-logger.DEBUG: Post 17 remapped to 17 [] []
+
+[2021-06-14 10:39:51] merlin-logger.INFO: Imported "Home Page 02" (Página) [] []
+
+[2021-06-14 10:39:51] merlin-logger.DEBUG: Post 19 remapped to 19 [] []
+
+[2021-06-14 10:39:52] merlin-logger.INFO: Imported "Home Page 03" (Página) [] []
+
+[2021-06-14 10:39:52] merlin-logger.DEBUG: Post 20 remapped to 20 [] []
+
+[2021-06-14 10:39:52] merlin-logger.INFO: Imported "Home Page 04" (Página) [] []
+
+[2021-06-14 10:39:52] merlin-logger.DEBUG: Post 21 remapped to 21 [] []
+
+[2021-06-14 10:39:52] merlin-logger.INFO: Imported "Top 10 Summer Season Hotels" (Entrada) [] []
+
+[2021-06-14 10:39:52] merlin-logger.DEBUG: Post 174 remapped to 174 [] []
+
+[2021-06-14 10:39:52] merlin-logger.INFO: Imported "About Us" (Página) [] []
+
+[2021-06-14 10:39:52] merlin-logger.DEBUG: Post 408 remapped to 408 [] []
+
+[2021-06-14 10:39:52] merlin-logger.INFO: Imported "Contact Us" (Página) [] []
+
+[2021-06-14 10:39:52] merlin-logger.DEBUG: Post 642 remapped to 642 [] []
+
+[2021-06-14 10:39:52] merlin-logger.INFO: Imported "Room List View" (Página) [] []
+
+[2021-06-14 10:39:52] merlin-logger.DEBUG: Post 695 remapped to 695 [] []
+
+[2021-06-14 10:39:52] merlin-logger.INFO: Imported "Room Grid View" (Página) [] []
+
+[2021-06-14 10:39:52] merlin-logger.DEBUG: Post 697 remapped to 697 [] []
+
+[2021-06-14 10:39:52] merlin-logger.INFO: Imported "Blog Grid View" (Página) [] []
+
+[2021-06-14 10:39:52] merlin-logger.DEBUG: Post 781 remapped to 781 [] []
+
+[2021-06-14 10:39:52] merlin-logger.INFO: Imported "Blog Classic" (Página) [] []
+
+[2021-06-14 10:39:52] merlin-logger.DEBUG: Post 816 remapped to 816 [] []
+
+[2021-06-14 10:39:52] merlin-logger.INFO: Imported "Header Style Two" (Elemento del menú de navegación) [] []
+
+[2021-06-14 10:39:52] merlin-logger.DEBUG: Post 960 remapped to 960 [] []
+
+[2021-06-14 10:39:52] merlin-logger.DEBUG: Processing menu item post_type [] []
+
+[2021-06-14 10:39:52] merlin-logger.DEBUG: Menu item 19 mapped to 19 [] []
+
+[2021-06-14 10:39:52] merlin-logger.INFO: Imported "Header Style One" (Elemento del menú de navegación) [] []
+
+[2021-06-14 10:39:52] merlin-logger.DEBUG: Post 961 remapped to 961 [] []
+
+[2021-06-14 10:39:52] merlin-logger.DEBUG: Processing menu item post_type [] []
+
+[2021-06-14 10:39:52] merlin-logger.DEBUG: Menu item 17 mapped to 17 [] []
+
+[2021-06-14 10:39:52] merlin-logger.INFO: Imported "Disclosing the Secrets of Success in Akomo." (Entrada) [] []
+
+[2021-06-14 10:39:52] merlin-logger.DEBUG: Post 180 remapped to 180 [] []
+
+[2021-06-14 10:39:52] merlin-logger.INFO: Imported "The Top Hotel Trends to Watch in 2020." (Entrada) [] []
+
+[2021-06-14 10:39:52] merlin-logger.DEBUG: Post 188 remapped to 188 [] []
+
+[2021-06-14 10:39:52] merlin-logger.INFO: Imported "Project Image 1" (Project) [] []
+
+[2021-06-14 10:39:52] merlin-logger.DEBUG: Post 253 remapped to 253 [] []
+
+[2021-06-14 10:39:52] merlin-logger.INFO: Imported "Project Image 2" (Project) [] []
+
+[2021-06-14 10:39:52] merlin-logger.DEBUG: Post 259 remapped to 259 [] []
+
+[2021-06-14 10:39:53] merlin-logger.INFO: Imported "Project Image 3" (Project) [] []
+
+[2021-06-14 10:39:53] merlin-logger.DEBUG: Post 260 remapped to 260 [] []
+
+[2021-06-14 10:39:53] merlin-logger.INFO: Imported "Top 10 Summer Season Hotels" (Entrada) [] []
+
+[2021-06-14 10:39:53] merlin-logger.DEBUG: Post 338 remapped to 338 [] []
+
+[2021-06-14 10:39:53] merlin-logger.INFO: Imported "Disclosing the Secrets of Success in Akomo." (Entrada) [] []
+
+[2021-06-14 10:39:53] merlin-logger.DEBUG: Post 343 remapped to 343 [] []
+
+[2021-06-14 10:39:53] merlin-logger.INFO: Imported "The Top Hotel Trends to Watch in 2020." (Entrada) [] []
+
+[2021-06-14 10:39:53] merlin-logger.DEBUG: Post 346 remapped to 346 [] []
+
+[2021-06-14 10:39:53] merlin-logger.INFO: Imported "Top 10 Summer Season Hotels by Forbes" (Entrada) [] []
+
+[2021-06-14 10:39:53] merlin-logger.DEBUG: Post 532 remapped to 532 [] []
+
+[2021-06-14 10:39:53] merlin-logger.INFO: Imported "Disclosing the Secrets of Success in Akomo" (Entrada) [] []
+
+[2021-06-14 10:39:53] merlin-logger.DEBUG: Post 540 remapped to 540 [] []
+
+[2021-06-14 10:39:53] merlin-logger.INFO: Imported "Seven Best Things To Do In Buckeye Arizona." (Entrada) [] []
+
+[2021-06-14 10:39:53] merlin-logger.DEBUG: Post 542 remapped to 542 [] []
+
+[2021-06-14 10:39:53] merlin-logger.INFO: New AJAX call! [] []
+
+[2021-06-14 10:39:55] merlin-logger.INFO: The content import AJAX call will be executed with this import data {"title":"Content","data":"D:\\codeando\\harassanjose/wp-content/themes/akomo/demo-import/content/content.xml"} []
+
+[2021-06-14 10:39:55] merlin-logger.WARNING: Failed to import "": Invalid post type mc4wp-form [] []
+
+[2021-06-14 10:39:55] merlin-logger.INFO: Imported "The Top Hotel Trends to Watch in 2020." (Entrada) [] []
+
+[2021-06-14 10:39:55] merlin-logger.DEBUG: Post 544 remapped to 544 [] []
+
+[2021-06-14 10:39:55] merlin-logger.INFO: Imported "Top 10 Summer Season Hotels by Forbes" (Entrada) [] []
+
+[2021-06-14 10:39:55] merlin-logger.DEBUG: Post 552 remapped to 552 [] []
+
+[2021-06-14 10:39:55] merlin-logger.INFO: Imported "Top 10 Summer Season Hotels by Forbes" (Entrada) [] []
+
+[2021-06-14 10:39:55] merlin-logger.DEBUG: Post 795 remapped to 795 [] []
+
+[2021-06-14 10:39:55] merlin-logger.INFO: Imported "The Top Hotel Trends to Watch in 2020." (Entrada) [] []
+
+[2021-06-14 10:39:55] merlin-logger.DEBUG: Post 802 remapped to 802 [] []
+
+[2021-06-14 10:39:55] merlin-logger.INFO: Imported "Disclosing the Secrets of Success in Akomo." (Entrada) [] []
+
+[2021-06-14 10:39:55] merlin-logger.DEBUG: Post 805 remapped to 805 [] []
+
+[2021-06-14 10:39:55] merlin-logger.INFO: Imported "Acceptance middletons me discretion boisterous" (Entrada) [] []
+
+[2021-06-14 10:39:55] merlin-logger.DEBUG: Post 807 remapped to 807 [] []
+
+[2021-06-14 10:39:55] merlin-logger.INFO: Imported "Disclosing the Secrets of Success in Akomo." (Entrada) [] []
+
+[2021-06-14 10:39:55] merlin-logger.DEBUG: Post 809 remapped to 809 [] []
+
+[2021-06-14 10:39:55] merlin-logger.INFO: Imported "Top 10 Summer Season Hotels by Forbes" (Entrada) [] []
+
+[2021-06-14 10:39:55] merlin-logger.DEBUG: Post 811 remapped to 811 [] []
+
+[2021-06-14 10:39:55] merlin-logger.INFO: Imported "Acceptance middletons me discretion boisterous" (Entrada) [] []
+
+[2021-06-14 10:39:55] merlin-logger.DEBUG: Post 814 remapped to 814 [] []
+
+[2021-06-14 10:39:56] merlin-logger.INFO: Imported "Restauramt" (Service) [] []
+
+[2021-06-14 10:39:56] merlin-logger.DEBUG: Post 135 remapped to 135 [] []
+
+[2021-06-14 10:39:56] merlin-logger.INFO: Imported "Harry Anderson" (Testimonial) [] []
+
+[2021-06-14 10:39:56] merlin-logger.DEBUG: Post 139 remapped to 139 [] []
+
+[2021-06-14 10:39:56] merlin-logger.INFO: Imported "Kavin Petrson" (Testimonial) [] []
+
+[2021-06-14 10:39:56] merlin-logger.DEBUG: Post 140 remapped to 140 [] []
+
+[2021-06-14 10:39:56] merlin-logger.INFO: Imported "Spa Salon" (Service) [] []
+
+[2021-06-14 10:39:56] merlin-logger.DEBUG: Post 153 remapped to 153 [] []
+
+[2021-06-14 10:39:56] merlin-logger.INFO: Imported "Swimming Pool" (Service) [] []
+
+[2021-06-14 10:39:56] merlin-logger.DEBUG: Post 154 remapped to 154 [] []
+
+[2021-06-14 10:39:56] merlin-logger.INFO: Imported "Buffet Facility" (Service) [] []
+
+[2021-06-14 10:39:56] merlin-logger.DEBUG: Post 155 remapped to 155 [] []
+
+[2021-06-14 10:39:56] merlin-logger.INFO: Imported "Conference Room" (Service) [] []
+
+[2021-06-14 10:39:56] merlin-logger.DEBUG: Post 157 remapped to 157 [] []
+
+[2021-06-14 10:39:56] merlin-logger.INFO: Imported "Fitness Zone" (Service) [] []
+
+[2021-06-14 10:39:56] merlin-logger.DEBUG: Post 159 remapped to 159 [] []
+
+[2021-06-14 10:39:56] merlin-logger.INFO: Imported "Game Room" (Service) [] []
+
+[2021-06-14 10:39:56] merlin-logger.DEBUG: Post 160 remapped to 160 [] []
+
+[2021-06-14 10:39:56] merlin-logger.INFO: Imported "Cinema Hall" (Service) [] []
+
+[2021-06-14 10:39:56] merlin-logger.DEBUG: Post 162 remapped to 162 [] []
+
+[2021-06-14 10:39:56] merlin-logger.INFO: Imported "Harry Anderson" (Testimonial) [] []
+
+[2021-06-14 10:39:56] merlin-logger.DEBUG: Post 163 remapped to 163 [] []
+
+[2021-06-14 10:39:56] merlin-logger.INFO: Imported "Kavin Petrson" (Testimonial) [] []
+
+[2021-06-14 10:39:56] merlin-logger.DEBUG: Post 164 remapped to 164 [] []
+
+[2021-06-14 10:39:56] merlin-logger.INFO: Imported "Harry Anderson" (Testimonial) [] []
+
+[2021-06-14 10:39:56] merlin-logger.DEBUG: Post 165 remapped to 165 [] []
+
+[2021-06-14 10:39:56] merlin-logger.INFO: Imported "Jason Momoa" (Testimonial) [] []
+
+[2021-06-14 10:39:56] merlin-logger.DEBUG: Post 234 remapped to 234 [] []
+
+[2021-06-14 10:39:56] merlin-logger.INFO: Imported "Jason Momoa" (Testimonial) [] []
+
+[2021-06-14 10:39:56] merlin-logger.DEBUG: Post 236 remapped to 236 [] []
+
+[2021-06-14 10:39:56] merlin-logger.INFO: Imported "Jason Momoa" (Testimonial) [] []
+
+[2021-06-14 10:39:56] merlin-logger.DEBUG: Post 237 remapped to 237 [] []
+
+[2021-06-14 10:39:56] merlin-logger.INFO: Imported "Project Image 4" (Project) [] []
+
+[2021-06-14 10:39:56] merlin-logger.DEBUG: Post 261 remapped to 261 [] []
+
+[2021-06-14 10:39:56] merlin-logger.INFO: Imported "Project Image 5" (Project) [] []
+
+[2021-06-14 10:39:56] merlin-logger.DEBUG: Post 262 remapped to 262 [] []
+
+[2021-06-14 10:39:56] merlin-logger.INFO: Imported "Harry Anderson" (Testimonial) [] []
+
+[2021-06-14 10:39:56] merlin-logger.DEBUG: Post 312 remapped to 312 [] []
+
+[2021-06-14 10:39:56] merlin-logger.INFO: Imported "Harry Anderson" (Testimonial) [] []
+
+[2021-06-14 10:39:56] merlin-logger.DEBUG: Post 318 remapped to 318 [] []
+
+[2021-06-14 10:39:57] merlin-logger.INFO: Imported "Contact form 1" (Formulario de contacto) [] []
+
+[2021-06-14 10:39:57] merlin-logger.DEBUG: Post 8 remapped to 1007 [] []
+
+[2021-06-14 10:39:57] merlin-logger.INFO: Imported "Harry Anderson" (Testimonial) [] []
+
+[2021-06-14 10:39:57] merlin-logger.DEBUG: Post 319 remapped to 319 [] []
+
+[2021-06-14 10:39:57] merlin-logger.INFO: Imported "Harry Anderson" (Testimonial) [] []
+
+[2021-06-14 10:39:57] merlin-logger.DEBUG: Post 320 remapped to 320 [] []
+
+[2021-06-14 10:39:57] merlin-logger.INFO: Imported "Contact Us Form" (Formulario de contacto) [] []
+
+[2021-06-14 10:39:57] merlin-logger.DEBUG: Post 649 remapped to 649 [] []
+
+[2021-06-14 10:39:57] merlin-logger.DEBUG: Running post-processing for post 38 [] []
+
+[2021-06-14 10:39:57] merlin-logger.WARNING: Could not find the author for "4" (post #38) [] []
+
+[2021-06-14 10:39:57] merlin-logger.DEBUG: Post 38 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:39:57] merlin-logger.DEBUG: Post 38 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:39:57] merlin-logger.DEBUG: Running post-processing for post 49 [] []
+
+[2021-06-14 10:39:57] merlin-logger.WARNING: Could not find the author for "3" (post #49) [] []
+
+[2021-06-14 10:39:57] merlin-logger.DEBUG: Post 49 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:39:57] merlin-logger.DEBUG: Post 49 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:39:57] merlin-logger.DEBUG: Running post-processing for post 74 [] []
+
+[2021-06-14 10:39:57] merlin-logger.WARNING: Could not find the author for "about-img-2" (post #74) [] []
+
+[2021-06-14 10:39:57] merlin-logger.DEBUG: Post 74 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:39:57] merlin-logger.DEBUG: Running post-processing for post 75 [] []
+
+[2021-06-14 10:39:57] merlin-logger.WARNING: Could not find the author for "about-img-3" (post #75) [] []
+
+[2021-06-14 10:39:57] merlin-logger.DEBUG: Post 75 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:39:57] merlin-logger.DEBUG: Running post-processing for post 76 [] []
+
+[2021-06-14 10:39:57] merlin-logger.WARNING: Could not find the author for "about-img-4" (post #76) [] []
+
+[2021-06-14 10:39:57] merlin-logger.DEBUG: Post 76 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:39:57] merlin-logger.DEBUG: Running post-processing for post 99 [] []
+
+[2021-06-14 10:39:57] merlin-logger.WARNING: Could not find the post parent for "testi-img-1" (post #99) [] []
+
+[2021-06-14 10:39:57] merlin-logger.DEBUG: Post 99 was imported with parent 98, but could not be found [] []
+
+[2021-06-14 10:39:57] merlin-logger.WARNING: Could not find the author for "testi-img-1" (post #99) [] []
+
+[2021-06-14 10:39:57] merlin-logger.DEBUG: Post 99 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:39:57] merlin-logger.DEBUG: Post 99 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:39:57] merlin-logger.DEBUG: Running post-processing for post 100 [] []
+
+[2021-06-14 10:39:57] merlin-logger.WARNING: Could not find the post parent for "testi-img-2" (post #100) [] []
+
+[2021-06-14 10:39:57] merlin-logger.DEBUG: Post 100 was imported with parent 98, but could not be found [] []
+
+[2021-06-14 10:39:57] merlin-logger.WARNING: Could not find the author for "testi-img-2" (post #100) [] []
+
+[2021-06-14 10:39:57] merlin-logger.DEBUG: Post 100 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:39:57] merlin-logger.DEBUG: Post 100 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:39:57] merlin-logger.DEBUG: Running post-processing for post 170 [] []
+
+[2021-06-14 10:39:57] merlin-logger.WARNING: Could not find the author for "video-img-2" (post #170) [] []
+
+[2021-06-14 10:39:57] merlin-logger.DEBUG: Post 170 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:39:57] merlin-logger.DEBUG: Running post-processing for post 175 [] []
+
+[2021-06-14 10:39:57] merlin-logger.WARNING: Could not find the author for "8" (post #175) [] []
+
+[2021-06-14 10:39:57] merlin-logger.DEBUG: Post 175 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:39:58] merlin-logger.DEBUG: Running post-processing for post 178 [] []
+
+[2021-06-14 10:39:58] merlin-logger.WARNING: Could not find the author for "news-2-1" (post #178) [] []
+
+[2021-06-14 10:39:58] merlin-logger.DEBUG: Post 178 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:39:58] merlin-logger.DEBUG: Running post-processing for post 179 [] []
+
+[2021-06-14 10:39:58] merlin-logger.WARNING: Could not find the author for "news-2-3" (post #179) [] []
+
+[2021-06-14 10:39:58] merlin-logger.DEBUG: Post 179 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:39:58] merlin-logger.DEBUG: Running post-processing for post 190 [] []
+
+[2021-06-14 10:39:58] merlin-logger.WARNING: Could not find the author for "news-bg" (post #190) [] []
+
+[2021-06-14 10:39:58] merlin-logger.DEBUG: Post 190 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:39:58] merlin-logger.DEBUG: Running post-processing for post 198 [] []
+
+[2021-06-14 10:39:58] merlin-logger.WARNING: Could not find the author for "logo" (post #198) [] []
+
+[2021-06-14 10:39:58] merlin-logger.DEBUG: Post 198 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:39:58] merlin-logger.DEBUG: Post 198 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:39:58] merlin-logger.DEBUG: Running post-processing for post 199 [] []
+
+[2021-06-14 10:39:58] merlin-logger.WARNING: Could not find the author for "logo-dark" (post #199) [] []
+
+[2021-06-14 10:39:58] merlin-logger.DEBUG: Post 199 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:39:58] merlin-logger.DEBUG: Post 199 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:39:58] merlin-logger.DEBUG: Running post-processing for post 201 [] []
+
+[2021-06-14 10:39:58] merlin-logger.WARNING: Could not find the author for "5" (post #201) [] []
+
+[2021-06-14 10:39:58] merlin-logger.DEBUG: Post 201 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:39:58] merlin-logger.DEBUG: Running post-processing for post 211 [] []
+
+[2021-06-14 10:39:58] merlin-logger.WARNING: Could not find the author for "6" (post #211) [] []
+
+[2021-06-14 10:39:58] merlin-logger.DEBUG: Post 211 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:39:58] merlin-logger.DEBUG: Running post-processing for post 230 [] []
+
+[2021-06-14 10:39:58] merlin-logger.WARNING: Could not find the author for "7" (post #230) [] []
+
+[2021-06-14 10:39:58] merlin-logger.DEBUG: Post 230 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:39:58] merlin-logger.DEBUG: Running post-processing for post 235 [] []
+
+[2021-06-14 10:39:58] merlin-logger.WARNING: Could not find the author for "testi-img-3" (post #235) [] []
+
+[2021-06-14 10:39:58] merlin-logger.DEBUG: Post 235 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:39:58] merlin-logger.DEBUG: Running post-processing for post 254 [] []
+
+[2021-06-14 10:39:58] merlin-logger.WARNING: Could not find the author for "gallery-1" (post #254) [] []
+
+[2021-06-14 10:39:58] merlin-logger.DEBUG: Post 254 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:39:58] merlin-logger.DEBUG: Running post-processing for post 255 [] []
+
+[2021-06-14 10:39:58] merlin-logger.WARNING: Could not find the author for "gallery-2" (post #255) [] []
+
+[2021-06-14 10:39:58] merlin-logger.DEBUG: Post 255 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:39:58] merlin-logger.DEBUG: Running post-processing for post 256 [] []
+
+[2021-06-14 10:39:58] merlin-logger.WARNING: Could not find the author for "gallery-3" (post #256) [] []
+
+[2021-06-14 10:39:58] merlin-logger.DEBUG: Post 256 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:39:58] merlin-logger.DEBUG: Running post-processing for post 257 [] []
+
+[2021-06-14 10:39:58] merlin-logger.WARNING: Could not find the author for "gallery-4" (post #257) [] []
+
+[2021-06-14 10:39:58] merlin-logger.DEBUG: Post 257 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:39:58] merlin-logger.DEBUG: Running post-processing for post 258 [] []
+
+[2021-06-14 10:39:58] merlin-logger.WARNING: Could not find the author for "gallery-5" (post #258) [] []
+
+[2021-06-14 10:39:58] merlin-logger.DEBUG: Post 258 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:39:58] merlin-logger.DEBUG: Running post-processing for post 275 [] []
+
+[2021-06-14 10:39:58] merlin-logger.WARNING: Could not find the author for "2" (post #275) [] []
+
+[2021-06-14 10:39:58] merlin-logger.DEBUG: Post 275 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:39:58] merlin-logger.DEBUG: Running post-processing for post 289 [] []
+
+[2021-06-14 10:39:58] merlin-logger.WARNING: Could not find the author for "image-1" (post #289) [] []
+
+[2021-06-14 10:39:58] merlin-logger.DEBUG: Post 289 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:39:58] merlin-logger.DEBUG: Running post-processing for post 290 [] []
+
+[2021-06-14 10:39:58] merlin-logger.WARNING: Could not find the author for "image-2" (post #290) [] []
+
+[2021-06-14 10:39:58] merlin-logger.DEBUG: Post 290 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:39:58] merlin-logger.DEBUG: Running post-processing for post 298 [] []
+
+[2021-06-14 10:39:59] merlin-logger.WARNING: Could not find the author for "about-img-5" (post #298) [] []
+
+[2021-06-14 10:39:59] merlin-logger.DEBUG: Post 298 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:39:59] merlin-logger.DEBUG: Running post-processing for post 299 [] []
+
+[2021-06-14 10:39:59] merlin-logger.WARNING: Could not find the author for "about-img-6" (post #299) [] []
+
+[2021-06-14 10:39:59] merlin-logger.DEBUG: Post 299 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:39:59] merlin-logger.DEBUG: Running post-processing for post 313 [] []
+
+[2021-06-14 10:39:59] merlin-logger.WARNING: Could not find the author for "testi-img-2-1" (post #313) [] []
+
+[2021-06-14 10:39:59] merlin-logger.DEBUG: Post 313 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:39:59] merlin-logger.DEBUG: Running post-processing for post 314 [] []
+
+[2021-06-14 10:39:59] merlin-logger.WARNING: Could not find the author for "testi-img-2-2" (post #314) [] []
+
+[2021-06-14 10:39:59] merlin-logger.DEBUG: Post 314 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:39:59] merlin-logger.DEBUG: Running post-processing for post 315 [] []
+
+[2021-06-14 10:39:59] merlin-logger.WARNING: Could not find the author for "testi-img-2-3" (post #315) [] []
+
+[2021-06-14 10:39:59] merlin-logger.DEBUG: Post 315 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:39:59] merlin-logger.DEBUG: Running post-processing for post 316 [] []
+
+[2021-06-14 10:39:59] merlin-logger.WARNING: Could not find the author for "testi-img-2-4" (post #316) [] []
+
+[2021-06-14 10:39:59] merlin-logger.DEBUG: Post 316 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:39:59] merlin-logger.DEBUG: Running post-processing for post 339 [] []
+
+[2021-06-14 10:39:59] merlin-logger.WARNING: Could not find the author for "news-2-1" (post #339) [] []
+
+[2021-06-14 10:39:59] merlin-logger.DEBUG: Post 339 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:39:59] merlin-logger.DEBUG: Running post-processing for post 340 [] []
+
+[2021-06-14 10:39:59] merlin-logger.WARNING: Could not find the author for "news-2-2" (post #340) [] []
+
+[2021-06-14 10:39:59] merlin-logger.DEBUG: Post 340 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:39:59] merlin-logger.DEBUG: Running post-processing for post 341 [] []
+
+[2021-06-14 10:39:59] merlin-logger.WARNING: Could not find the author for "news-2-3" (post #341) [] []
+
+[2021-06-14 10:39:59] merlin-logger.DEBUG: Post 341 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:39:59] merlin-logger.DEBUG: Running post-processing for post 367 [] []
+
+[2021-06-14 10:39:59] merlin-logger.WARNING: Could not find the author for "about-img-1" (post #367) [] []
+
+[2021-06-14 10:39:59] merlin-logger.DEBUG: Post 367 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:39:59] merlin-logger.DEBUG: Running post-processing for post 448 [] []
+
+[2021-06-14 10:39:59] merlin-logger.WARNING: Could not find the author for "room-2-1" (post #448) [] []
+
+[2021-06-14 10:39:59] merlin-logger.DEBUG: Post 448 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:39:59] merlin-logger.DEBUG: Running post-processing for post 449 [] []
+
+[2021-06-14 10:39:59] merlin-logger.WARNING: Could not find the author for "room-2-2" (post #449) [] []
+
+[2021-06-14 10:39:59] merlin-logger.DEBUG: Post 449 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:39:59] merlin-logger.DEBUG: Running post-processing for post 450 [] []
+
+[2021-06-14 10:39:59] merlin-logger.WARNING: Could not find the author for "room-2-3" (post #450) [] []
+
+[2021-06-14 10:39:59] merlin-logger.DEBUG: Post 450 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:39:59] merlin-logger.DEBUG: Running post-processing for post 471 [] []
+
+[2021-06-14 10:39:59] merlin-logger.WARNING: Could not find the author for "package-5" (post #471) [] []
+
+[2021-06-14 10:39:59] merlin-logger.DEBUG: Post 471 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:39:59] merlin-logger.DEBUG: Running post-processing for post 495 [] []
+
+[2021-06-14 10:39:59] merlin-logger.WARNING: Could not find the author for "room-3-1" (post #495) [] []
+
+[2021-06-14 10:39:59] merlin-logger.DEBUG: Post 495 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:39:59] merlin-logger.DEBUG: Running post-processing for post 496 [] []
+
+[2021-06-14 10:39:59] merlin-logger.WARNING: Could not find the author for "room-3-2" (post #496) [] []
+
+[2021-06-14 10:39:59] merlin-logger.DEBUG: Post 496 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:39:59] merlin-logger.DEBUG: Running post-processing for post 497 [] []
+
+[2021-06-14 10:39:59] merlin-logger.WARNING: Could not find the author for "room-3-3" (post #497) [] []
+
+[2021-06-14 10:39:59] merlin-logger.DEBUG: Post 497 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:00] merlin-logger.DEBUG: Running post-processing for post 498 [] []
+
+[2021-06-14 10:40:00] merlin-logger.WARNING: Could not find the author for "room-3-4" (post #498) [] []
+
+[2021-06-14 10:40:00] merlin-logger.DEBUG: Post 498 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:00] merlin-logger.DEBUG: Running post-processing for post 499 [] []
+
+[2021-06-14 10:40:00] merlin-logger.WARNING: Could not find the author for "room-3-5" (post #499) [] []
+
+[2021-06-14 10:40:00] merlin-logger.DEBUG: Post 499 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:00] merlin-logger.DEBUG: Running post-processing for post 517 [] []
+
+[2021-06-14 10:40:00] merlin-logger.WARNING: Could not find the author for "package-2-1" (post #517) [] []
+
+[2021-06-14 10:40:00] merlin-logger.DEBUG: Post 517 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:00] merlin-logger.DEBUG: Running post-processing for post 518 [] []
+
+[2021-06-14 10:40:00] merlin-logger.WARNING: Could not find the author for "package-2-2" (post #518) [] []
+
+[2021-06-14 10:40:00] merlin-logger.DEBUG: Post 518 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:00] merlin-logger.DEBUG: Running post-processing for post 519 [] []
+
+[2021-06-14 10:40:00] merlin-logger.WARNING: Could not find the author for "package-2-3" (post #519) [] []
+
+[2021-06-14 10:40:00] merlin-logger.DEBUG: Post 519 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:00] merlin-logger.DEBUG: Running post-processing for post 520 [] []
+
+[2021-06-14 10:40:00] merlin-logger.WARNING: Could not find the author for "package-2-4" (post #520) [] []
+
+[2021-06-14 10:40:00] merlin-logger.DEBUG: Post 520 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:00] merlin-logger.DEBUG: Running post-processing for post 533 [] []
+
+[2021-06-14 10:40:00] merlin-logger.WARNING: Could not find the author for "news-4" (post #533) [] []
+
+[2021-06-14 10:40:00] merlin-logger.DEBUG: Post 533 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:00] merlin-logger.DEBUG: Running post-processing for post 534 [] []
+
+[2021-06-14 10:40:00] merlin-logger.WARNING: Could not find the author for "news-thumb-1" (post #534) [] []
+
+[2021-06-14 10:40:00] merlin-logger.DEBUG: Post 534 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:00] merlin-logger.DEBUG: Running post-processing for post 535 [] []
+
+[2021-06-14 10:40:00] merlin-logger.WARNING: Could not find the author for "news-thumb-2" (post #535) [] []
+
+[2021-06-14 10:40:00] merlin-logger.DEBUG: Post 535 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:00] merlin-logger.DEBUG: Running post-processing for post 536 [] []
+
+[2021-06-14 10:40:00] merlin-logger.WARNING: Could not find the author for "news-thumb-3" (post #536) [] []
+
+[2021-06-14 10:40:00] merlin-logger.DEBUG: Post 536 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:00] merlin-logger.DEBUG: Running post-processing for post 537 [] []
+
+[2021-06-14 10:40:00] merlin-logger.WARNING: Could not find the author for "news-thumb-4" (post #537) [] []
+
+[2021-06-14 10:40:00] merlin-logger.DEBUG: Post 537 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:00] merlin-logger.DEBUG: Running post-processing for post 557 [] []
+
+[2021-06-14 10:40:00] merlin-logger.WARNING: Could not find the author for "room-3-1" (post #557) [] []
+
+[2021-06-14 10:40:00] merlin-logger.DEBUG: Post 557 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:00] merlin-logger.DEBUG: Running post-processing for post 558 [] []
+
+[2021-06-14 10:40:00] merlin-logger.WARNING: Could not find the author for "room-4-1" (post #558) [] []
+
+[2021-06-14 10:40:00] merlin-logger.DEBUG: Post 558 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:00] merlin-logger.DEBUG: Running post-processing for post 559 [] []
+
+[2021-06-14 10:40:00] merlin-logger.WARNING: Could not find the author for "room-4-2" (post #559) [] []
+
+[2021-06-14 10:40:00] merlin-logger.DEBUG: Post 559 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:00] merlin-logger.DEBUG: Running post-processing for post 586 [] []
+
+[2021-06-14 10:40:00] merlin-logger.WARNING: Could not find the author for "package-6" (post #586) [] []
+
+[2021-06-14 10:40:00] merlin-logger.DEBUG: Post 586 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:00] merlin-logger.DEBUG: Running post-processing for post 624 [] []
+
+[2021-06-14 10:40:00] merlin-logger.WARNING: Could not find the author for "room-4" (post #624) [] []
+
+[2021-06-14 10:40:00] merlin-logger.DEBUG: Post 624 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:00] merlin-logger.DEBUG: Running post-processing for post 625 [] []
+
+[2021-06-14 10:40:00] merlin-logger.WARNING: Could not find the author for "room-5" (post #625) [] []
+
+[2021-06-14 10:40:00] merlin-logger.DEBUG: Post 625 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:00] merlin-logger.DEBUG: Running post-processing for post 626 [] []
+
+[2021-06-14 10:40:00] merlin-logger.WARNING: Could not find the author for "room-6" (post #626) [] []
+
+[2021-06-14 10:40:00] merlin-logger.DEBUG: Post 626 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:01] merlin-logger.DEBUG: Running post-processing for post 636 [] []
+
+[2021-06-14 10:40:01] merlin-logger.WARNING: Could not find the author for "video-img" (post #636) [] []
+
+[2021-06-14 10:40:01] merlin-logger.DEBUG: Post 636 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:01] merlin-logger.DEBUG: Running post-processing for post 708 [] []
+
+[2021-06-14 10:40:01] merlin-logger.WARNING: Could not find the author for "room-list-1" (post #708) [] []
+
+[2021-06-14 10:40:01] merlin-logger.DEBUG: Post 708 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:01] merlin-logger.DEBUG: Running post-processing for post 709 [] []
+
+[2021-06-14 10:40:01] merlin-logger.WARNING: Could not find the author for "room-list-2" (post #709) [] []
+
+[2021-06-14 10:40:01] merlin-logger.DEBUG: Post 709 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:01] merlin-logger.DEBUG: Running post-processing for post 710 [] []
+
+[2021-06-14 10:40:01] merlin-logger.WARNING: Could not find the author for "room-list-3" (post #710) [] []
+
+[2021-06-14 10:40:01] merlin-logger.DEBUG: Post 710 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:01] merlin-logger.DEBUG: Running post-processing for post 711 [] []
+
+[2021-06-14 10:40:01] merlin-logger.WARNING: Could not find the author for "room-list-4" (post #711) [] []
+
+[2021-06-14 10:40:01] merlin-logger.DEBUG: Post 711 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:01] merlin-logger.DEBUG: Running post-processing for post 712 [] []
+
+[2021-06-14 10:40:01] merlin-logger.WARNING: Could not find the author for "room-list-5" (post #712) [] []
+
+[2021-06-14 10:40:01] merlin-logger.DEBUG: Post 712 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:01] merlin-logger.DEBUG: Running post-processing for post 713 [] []
+
+[2021-06-14 10:40:01] merlin-logger.WARNING: Could not find the author for "room-list-6" (post #713) [] []
+
+[2021-06-14 10:40:01] merlin-logger.DEBUG: Post 713 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:01] merlin-logger.DEBUG: Running post-processing for post 748 [] []
+
+[2021-06-14 10:40:01] merlin-logger.WARNING: Could not find the author for "logo" (post #748) [] []
+
+[2021-06-14 10:40:01] merlin-logger.DEBUG: Post 748 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:01] merlin-logger.DEBUG: Post 748 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:01] merlin-logger.DEBUG: Running post-processing for post 764 [] []
+
+[2021-06-14 10:40:01] merlin-logger.WARNING: Could not find the author for "room-7" (post #764) [] []
+
+[2021-06-14 10:40:01] merlin-logger.DEBUG: Post 764 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:01] merlin-logger.DEBUG: Running post-processing for post 765 [] []
+
+[2021-06-14 10:40:01] merlin-logger.WARNING: Could not find the author for "room-9" (post #765) [] []
+
+[2021-06-14 10:40:01] merlin-logger.DEBUG: Post 765 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:01] merlin-logger.DEBUG: Running post-processing for post 769 [] []
+
+[2021-06-14 10:40:01] merlin-logger.WARNING: Could not find the author for "room-8" (post #769) [] []
+
+[2021-06-14 10:40:01] merlin-logger.DEBUG: Post 769 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:01] merlin-logger.DEBUG: Running post-processing for post 778 [] []
+
+[2021-06-14 10:40:01] merlin-logger.WARNING: Could not find the author for "room-6" (post #778) [] []
+
+[2021-06-14 10:40:01] merlin-logger.DEBUG: Post 778 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:01] merlin-logger.DEBUG: Running post-processing for post 779 [] []
+
+[2021-06-14 10:40:01] merlin-logger.WARNING: Could not find the author for "room-1" (post #779) [] []
+
+[2021-06-14 10:40:01] merlin-logger.DEBUG: Post 779 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:01] merlin-logger.DEBUG: Running post-processing for post 780 [] []
+
+[2021-06-14 10:40:01] merlin-logger.WARNING: Could not find the author for "room-2" (post #780) [] []
+
+[2021-06-14 10:40:01] merlin-logger.DEBUG: Post 780 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:01] merlin-logger.DEBUG: Running post-processing for post 796 [] []
+
+[2021-06-14 10:40:01] merlin-logger.WARNING: Could not find the author for "room-detail-1" (post #796) [] []
+
+[2021-06-14 10:40:01] merlin-logger.DEBUG: Post 796 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:01] merlin-logger.DEBUG: Running post-processing for post 797 [] []
+
+[2021-06-14 10:40:01] merlin-logger.WARNING: Could not find the author for "room-detail-2" (post #797) [] []
+
+[2021-06-14 10:40:01] merlin-logger.DEBUG: Post 797 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:01] merlin-logger.DEBUG: Running post-processing for post 798 [] []
+
+[2021-06-14 10:40:01] merlin-logger.WARNING: Could not find the author for "room-detail-3" (post #798) [] []
+
+[2021-06-14 10:40:01] merlin-logger.DEBUG: Post 798 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:01] merlin-logger.DEBUG: Running post-processing for post 799 [] []
+
+[2021-06-14 10:40:01] merlin-logger.WARNING: Could not find the author for "room-detail-4" (post #799) [] []
+
+[2021-06-14 10:40:01] merlin-logger.DEBUG: Post 799 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:01] merlin-logger.DEBUG: Running post-processing for post 820 [] []
+
+[2021-06-14 10:40:01] merlin-logger.WARNING: Could not find the author for "2" (post #820) [] []
+
+[2021-06-14 10:40:01] merlin-logger.DEBUG: Post 820 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Post 820 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Running post-processing for post 16 [] []
+
+[2021-06-14 10:40:02] merlin-logger.WARNING: Could not find the author for "Default Kit" (post #16) [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Post 16 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Post 16 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Running post-processing for post 821 [] []
+
+[2021-06-14 10:40:02] merlin-logger.WARNING: Could not find the author for "8" (post #821) [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Post 821 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Post 821 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Running post-processing for post 839 [] []
+
+[2021-06-14 10:40:02] merlin-logger.WARNING: Could not find the author for "news-image-20" (post #839) [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Post 839 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Running post-processing for post 840 [] []
+
+[2021-06-14 10:40:02] merlin-logger.WARNING: Could not find the author for "news-image-16" (post #840) [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Post 840 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Running post-processing for post 841 [] []
+
+[2021-06-14 10:40:02] merlin-logger.WARNING: Could not find the author for "news-image-17" (post #841) [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Post 841 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Running post-processing for post 842 [] []
+
+[2021-06-14 10:40:02] merlin-logger.WARNING: Could not find the author for "news-image-18" (post #842) [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Post 842 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Running post-processing for post 843 [] []
+
+[2021-06-14 10:40:02] merlin-logger.WARNING: Could not find the author for "news-image-19" (post #843) [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Post 843 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Running post-processing for post 858 [] []
+
+[2021-06-14 10:40:02] merlin-logger.WARNING: Could not find the author for "room-detail-4" (post #858) [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Post 858 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Running post-processing for post 859 [] []
+
+[2021-06-14 10:40:02] merlin-logger.WARNING: Could not find the author for "room-detail-1" (post #859) [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Post 859 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Running post-processing for post 860 [] []
+
+[2021-06-14 10:40:02] merlin-logger.WARNING: Could not find the author for "room-detail-2" (post #860) [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Post 860 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Running post-processing for post 861 [] []
+
+[2021-06-14 10:40:02] merlin-logger.WARNING: Could not find the author for "room-detail-3" (post #861) [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Post 861 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Running post-processing for post 864 [] []
+
+[2021-06-14 10:40:02] merlin-logger.WARNING: Could not find the author for "Wifi" (post #864) [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Post 864 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Post 864 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Running post-processing for post 927 [] []
+
+[2021-06-14 10:40:02] merlin-logger.WARNING: Could not find the author for "13" (post #927) [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Post 927 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Post 927 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Running post-processing for post 928 [] []
+
+[2021-06-14 10:40:02] merlin-logger.WARNING: Could not find the author for "14" (post #928) [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Post 928 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Post 928 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Running post-processing for post 935 [] []
+
+[2021-06-14 10:40:02] merlin-logger.WARNING: Could not find the author for "8" (post #935) [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Post 935 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Running post-processing for post 936 [] []
+
+[2021-06-14 10:40:02] merlin-logger.WARNING: Could not find the author for "9" (post #936) [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Post 936 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Running post-processing for post 937 [] []
+
+[2021-06-14 10:40:02] merlin-logger.WARNING: Could not find the author for "10" (post #937) [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Post 937 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Running post-processing for post 941 [] []
+
+[2021-06-14 10:40:02] merlin-logger.WARNING: Could not find the author for "banner-image-2" (post #941) [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Post 941 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Running post-processing for post 1001 [] []
+
+[2021-06-14 10:40:02] merlin-logger.WARNING: Could not find the author for "Logo-Akomo-Black" (post #1001) [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Post 1001 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Post 1001 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Running post-processing for post 1002 [] []
+
+[2021-06-14 10:40:02] merlin-logger.WARNING: Could not find the author for "Logo-Akomo-White" (post #1002) [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Post 1002 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Post 1002 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Running post-processing for post 447 [] []
+
+[2021-06-14 10:40:02] merlin-logger.WARNING: Could not find the author for "Apartment Signature Balcony Room" (post #447) [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Post 447 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Post 447 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Running post-processing for post 452 [] []
+
+[2021-06-14 10:40:02] merlin-logger.WARNING: Could not find the author for "Queen Deluxe Room Balcony" (post #452) [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Post 452 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Post 452 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Running post-processing for post 454 [] []
+
+[2021-06-14 10:40:02] merlin-logger.WARNING: Could not find the author for "Lake View Luxury Room Balcony" (post #454) [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Post 454 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Post 454 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Running post-processing for post 470 [] []
+
+[2021-06-14 10:40:02] merlin-logger.WARNING: Could not find the author for "Luxury Cottage Double Signature <br>Bedroom Suite" (post #470) [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Post 470 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Post 470 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Running post-processing for post 494 [] []
+
+[2021-06-14 10:40:02] merlin-logger.WARNING: Could not find the author for "Apartment Signature Balcony Room" (post #494) [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Post 494 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Post 494 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Running post-processing for post 501 [] []
+
+[2021-06-14 10:40:02] merlin-logger.WARNING: Could not find the author for "Apartment Signature Room" (post #501) [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Post 501 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Post 501 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:02] merlin-logger.DEBUG: Running post-processing for post 503 [] []
+
+[2021-06-14 10:40:03] merlin-logger.WARNING: Could not find the author for "Apartment Signature Room" (post #503) [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 503 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 503 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Running post-processing for post 506 [] []
+
+[2021-06-14 10:40:03] merlin-logger.WARNING: Could not find the author for "Apartment Signature Room" (post #506) [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 506 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 506 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Running post-processing for post 508 [] []
+
+[2021-06-14 10:40:03] merlin-logger.WARNING: Could not find the author for "Apartment Signature Room" (post #508) [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 508 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 508 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Running post-processing for post 516 [] []
+
+[2021-06-14 10:40:03] merlin-logger.WARNING: Could not find the author for "Luxury Cottage Signature <br>Bedroom Suite" (post #516) [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 516 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 516 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Running post-processing for post 523 [] []
+
+[2021-06-14 10:40:03] merlin-logger.WARNING: Could not find the author for "Luxury Cottage Signature <br>Bedroom Suite" (post #523) [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 523 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 523 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Running post-processing for post 524 [] []
+
+[2021-06-14 10:40:03] merlin-logger.WARNING: Could not find the author for "Luxury Cottage Signature <br>Bedroom Suite" (post #524) [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 524 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 524 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Running post-processing for post 525 [] []
+
+[2021-06-14 10:40:03] merlin-logger.WARNING: Could not find the author for "Luxury Cottage Signature <br>Bedroom Suite" (post #525) [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 525 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 525 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Running post-processing for post 556 [] []
+
+[2021-06-14 10:40:03] merlin-logger.WARNING: Could not find the author for "Apartment Signature Balcony Room" (post #556) [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 556 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 556 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Running post-processing for post 562 [] []
+
+[2021-06-14 10:40:03] merlin-logger.WARNING: Could not find the author for "Apartment Signature Balcony Room" (post #562) [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 562 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 562 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Running post-processing for post 563 [] []
+
+[2021-06-14 10:40:03] merlin-logger.WARNING: Could not find the author for "Apartment Signature Balcony Room" (post #563) [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 563 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 563 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Running post-processing for post 584 [] []
+
+[2021-06-14 10:40:03] merlin-logger.WARNING: Could not find the author for "Luxury Cottage Double Signature <br>Bedroom Suite" (post #584) [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 584 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 584 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Running post-processing for post 590 [] []
+
+[2021-06-14 10:40:03] merlin-logger.WARNING: Could not find the author for "Luxury Cottage Double Signature <br>Bedroom Suite" (post #590) [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 590 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 590 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Running post-processing for post 591 [] []
+
+[2021-06-14 10:40:03] merlin-logger.WARNING: Could not find the author for "Luxury Cottage Double Signature <br>Bedroom Suite" (post #591) [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 591 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 591 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Running post-processing for post 865 [] []
+
+[2021-06-14 10:40:03] merlin-logger.WARNING: Could not find the author for "Parking" (post #865) [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 865 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 865 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Running post-processing for post 621 [] []
+
+[2021-06-14 10:40:03] merlin-logger.WARNING: Could not find the author for "Apartment Signature Balcony Room" (post #621) [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 621 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 621 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Running post-processing for post 622 [] []
+
+[2021-06-14 10:40:03] merlin-logger.WARNING: Could not find the author for "Apartment Signature Balcony Room" (post #622) [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 622 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 622 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Running post-processing for post 623 [] []
+
+[2021-06-14 10:40:03] merlin-logger.WARNING: Could not find the author for "Apartment Signature Balcony Room" (post #623) [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 623 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 623 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Running post-processing for post 707 [] []
+
+[2021-06-14 10:40:03] merlin-logger.WARNING: Could not find the author for "Apartment Signature Balcony Room" (post #707) [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 707 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 707 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Running post-processing for post 715 [] []
+
+[2021-06-14 10:40:03] merlin-logger.WARNING: Could not find the author for "Disclosing the Secrets of Success in Akomo." (post #715) [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 715 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 715 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Running post-processing for post 717 [] []
+
+[2021-06-14 10:40:03] merlin-logger.WARNING: Could not find the author for "The Top Hotel Trends to Watch in 2020." (post #717) [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 717 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 717 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Running post-processing for post 733 [] []
+
+[2021-06-14 10:40:03] merlin-logger.WARNING: Could not find the author for "Apartment Signature Balcony Room" (post #733) [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 733 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 733 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Running post-processing for post 741 [] []
+
+[2021-06-14 10:40:03] merlin-logger.WARNING: Could not find the author for "The Top Hotel Trends to Watch in 2020." (post #741) [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 741 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 741 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Running post-processing for post 746 [] []
+
+[2021-06-14 10:40:03] merlin-logger.WARNING: Could not find the author for "Apartment Signature Balcony Room" (post #746) [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 746 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 746 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Running post-processing for post 763 [] []
+
+[2021-06-14 10:40:03] merlin-logger.WARNING: Could not find the author for "Apartment Signature Balcony Room" (post #763) [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 763 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 763 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Running post-processing for post 767 [] []
+
+[2021-06-14 10:40:03] merlin-logger.WARNING: Could not find the author for "Disclosing the Secrets of Success in Akomo." (post #767) [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 767 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:03] merlin-logger.DEBUG: Post 767 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Running post-processing for post 771 [] []
+
+[2021-06-14 10:40:04] merlin-logger.WARNING: Could not find the author for "The Top Hotel Trends to Watch in 2020." (post #771) [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Post 771 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Post 771 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Running post-processing for post 776 [] []
+
+[2021-06-14 10:40:04] merlin-logger.WARNING: Could not find the author for "Apartment Signature Balcony Room" (post #776) [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Post 776 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Post 776 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Running post-processing for post 929 [] []
+
+[2021-06-14 10:40:04] merlin-logger.WARNING: Could not find the author for "Queen Deluxe Double Signature Room Balcony" (post #929) [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Post 929 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Post 929 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Running post-processing for post 930 [] []
+
+[2021-06-14 10:40:04] merlin-logger.WARNING: Could not find the author for "Lake View Luxury Double Signature Room Balcony" (post #930) [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Post 930 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Post 930 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Running post-processing for post 931 [] []
+
+[2021-06-14 10:40:04] merlin-logger.WARNING: Could not find the author for "Apartment Double Signature Balcony Room" (post #931) [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Post 931 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Post 931 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Running post-processing for post 946 [] []
+
+[2021-06-14 10:40:04] merlin-logger.WARNING: Could not find the author for "" (post #946) [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Post 946 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Post 946 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Running post-processing for post 948 [] []
+
+[2021-06-14 10:40:04] merlin-logger.WARNING: Could not find the author for "" (post #948) [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Post 948 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Post 948 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Running post-processing for post 949 [] []
+
+[2021-06-14 10:40:04] merlin-logger.WARNING: Could not find the author for "" (post #949) [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Post 949 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Post 949 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Running post-processing for post 26 [] []
+
+[2021-06-14 10:40:04] merlin-logger.WARNING: Could not find the author for "Home" (post #26) [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Post 26 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Post 26 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Running post-processing for post 27 [] []
+
+[2021-06-14 10:40:04] merlin-logger.WARNING: Could not find the author for "" (post #27) [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Post 27 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Post 27 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Running post-processing for post 28 [] []
+
+[2021-06-14 10:40:04] merlin-logger.WARNING: Could not find the author for "" (post #28) [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Post 28 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Post 28 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Running post-processing for post 29 [] []
+
+[2021-06-14 10:40:04] merlin-logger.WARNING: Could not find the author for "" (post #29) [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Post 29 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Post 29 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Running post-processing for post 30 [] []
+
+[2021-06-14 10:40:04] merlin-logger.WARNING: Could not find the author for "" (post #30) [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Post 30 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Post 30 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Running post-processing for post 437 [] []
+
+[2021-06-14 10:40:04] merlin-logger.WARNING: Could not find the author for "" (post #437) [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Post 437 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Post 437 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Running post-processing for post 640 [] []
+
+[2021-06-14 10:40:04] merlin-logger.WARNING: Could not find the author for "Rooms" (post #640) [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Post 640 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Post 640 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Running post-processing for post 641 [] []
+
+[2021-06-14 10:40:04] merlin-logger.WARNING: Could not find the author for "News" (post #641) [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Post 641 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Post 641 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Running post-processing for post 647 [] []
+
+[2021-06-14 10:40:04] merlin-logger.WARNING: Could not find the author for "" (post #647) [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Post 647 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Post 647 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Running post-processing for post 705 [] []
+
+[2021-06-14 10:40:04] merlin-logger.WARNING: Could not find the author for "" (post #705) [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Post 705 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Post 705 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Running post-processing for post 706 [] []
+
+[2021-06-14 10:40:04] merlin-logger.WARNING: Could not find the author for "" (post #706) [] []
+
+[2021-06-14 10:40:04] merlin-logger.DEBUG: Post 706 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Post 706 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Running post-processing for post 804 [] []
+
+[2021-06-14 10:40:05] merlin-logger.WARNING: Could not find the author for "" (post #804) [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Post 804 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Post 804 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Running post-processing for post 819 [] []
+
+[2021-06-14 10:40:05] merlin-logger.WARNING: Could not find the author for "" (post #819) [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Post 819 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Post 819 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Running post-processing for post 822 [] []
+
+[2021-06-14 10:40:05] merlin-logger.WARNING: Could not find the author for "Error Page" (post #822) [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Post 822 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Post 822 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Running post-processing for post 824 [] []
+
+[2021-06-14 10:40:05] merlin-logger.WARNING: Could not find the author for "Blog Single" (post #824) [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Post 824 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Post 824 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Running post-processing for post 926 [] []
+
+[2021-06-14 10:40:05] merlin-logger.WARNING: Could not find the author for "Room Single" (post #926) [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Post 926 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Post 926 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Running post-processing for post 950 [] []
+
+[2021-06-14 10:40:05] merlin-logger.WARNING: Could not find the author for "Apartment Balcony Room" (post #950) [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Post 950 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Post 950 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Running post-processing for post 957 [] []
+
+[2021-06-14 10:40:05] merlin-logger.WARNING: Could not find the author for "Header Styles" (post #957) [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Post 957 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Post 957 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Running post-processing for post 958 [] []
+
+[2021-06-14 10:40:05] merlin-logger.WARNING: Could not find the author for "Header Style Four" (post #958) [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Post 958 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Post 958 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Running post-processing for post 959 [] []
+
+[2021-06-14 10:40:05] merlin-logger.WARNING: Could not find the author for "Header Style Three" (post #959) [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Post 959 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Post 959 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Running post-processing for post 1003 [] []
+
+[2021-06-14 10:40:05] merlin-logger.WARNING: Could not find the author for "Hotel Rooms" (post #1003) [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Post 1003 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Post 1003 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Running post-processing for post 1004 [] []
+
+[2021-06-14 10:40:05] merlin-logger.WARNING: Could not find the author for "Hotel Cart" (post #1004) [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Post 1004 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Post 1004 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Running post-processing for post 1005 [] []
+
+[2021-06-14 10:40:05] merlin-logger.WARNING: Could not find the author for "Hotel Checkout" (post #1005) [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Post 1005 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Post 1005 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Running post-processing for post 1006 [] []
+
+[2021-06-14 10:40:05] merlin-logger.WARNING: Could not find the author for "Hotel Booking Search" (post #1006) [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Post 1006 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Post 1006 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Running post-processing for post 13 [] []
+
+[2021-06-14 10:40:05] merlin-logger.WARNING: Could not find the author for "Hotel Account" (post #13) [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Post 13 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Post 13 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Running post-processing for post 14 [] []
+
+[2021-06-14 10:40:05] merlin-logger.WARNING: Could not find the author for "Terms and Conditions" (post #14) [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Post 14 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Post 14 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Running post-processing for post 15 [] []
+
+[2021-06-14 10:40:05] merlin-logger.WARNING: Could not find the author for "Hotel Thank You" (post #15) [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Post 15 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Post 15 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Running post-processing for post 17 [] []
+
+[2021-06-14 10:40:05] merlin-logger.WARNING: Could not find the author for "Home Page 01" (post #17) [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Post 17 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Running post-processing for post 19 [] []
+
+[2021-06-14 10:40:05] merlin-logger.WARNING: Could not find the author for "Home Page 02" (post #19) [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Post 19 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Running post-processing for post 20 [] []
+
+[2021-06-14 10:40:05] merlin-logger.WARNING: Could not find the author for "Home Page 03" (post #20) [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Post 20 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Running post-processing for post 21 [] []
+
+[2021-06-14 10:40:05] merlin-logger.WARNING: Could not find the author for "Home Page 04" (post #21) [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Post 21 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Running post-processing for post 174 [] []
+
+[2021-06-14 10:40:05] merlin-logger.WARNING: Could not find the author for "Top 10 Summer Season Hotels" (post #174) [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Post 174 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Post 174 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Running post-processing for post 408 [] []
+
+[2021-06-14 10:40:05] merlin-logger.WARNING: Could not find the author for "About Us" (post #408) [] []
+
+[2021-06-14 10:40:05] merlin-logger.DEBUG: Post 408 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Running post-processing for post 642 [] []
+
+[2021-06-14 10:40:06] merlin-logger.WARNING: Could not find the author for "Contact Us" (post #642) [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Post 642 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Post 642 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Running post-processing for post 695 [] []
+
+[2021-06-14 10:40:06] merlin-logger.WARNING: Could not find the author for "Room List View" (post #695) [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Post 695 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Running post-processing for post 697 [] []
+
+[2021-06-14 10:40:06] merlin-logger.WARNING: Could not find the author for "Room Grid View" (post #697) [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Post 697 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Running post-processing for post 781 [] []
+
+[2021-06-14 10:40:06] merlin-logger.WARNING: Could not find the author for "Blog Grid View" (post #781) [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Post 781 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Running post-processing for post 816 [] []
+
+[2021-06-14 10:40:06] merlin-logger.WARNING: Could not find the author for "Blog Classic" (post #816) [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Post 816 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Post 816 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Running post-processing for post 960 [] []
+
+[2021-06-14 10:40:06] merlin-logger.WARNING: Could not find the author for "Header Style Two" (post #960) [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Post 960 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Post 960 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Running post-processing for post 961 [] []
+
+[2021-06-14 10:40:06] merlin-logger.WARNING: Could not find the author for "Header Style One" (post #961) [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Post 961 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Post 961 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Running post-processing for post 180 [] []
+
+[2021-06-14 10:40:06] merlin-logger.WARNING: Could not find the author for "Disclosing the Secrets of Success in Akomo." (post #180) [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Post 180 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Post 180 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Running post-processing for post 188 [] []
+
+[2021-06-14 10:40:06] merlin-logger.WARNING: Could not find the author for "The Top Hotel Trends to Watch in 2020." (post #188) [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Post 188 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Post 188 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Running post-processing for post 253 [] []
+
+[2021-06-14 10:40:06] merlin-logger.WARNING: Could not find the author for "Project Image 1" (post #253) [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Post 253 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Post 253 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Running post-processing for post 259 [] []
+
+[2021-06-14 10:40:06] merlin-logger.WARNING: Could not find the author for "Project Image 2" (post #259) [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Post 259 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Post 259 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Running post-processing for post 260 [] []
+
+[2021-06-14 10:40:06] merlin-logger.WARNING: Could not find the author for "Project Image 3" (post #260) [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Post 260 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Post 260 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Running post-processing for post 338 [] []
+
+[2021-06-14 10:40:06] merlin-logger.WARNING: Could not find the author for "Top 10 Summer Season Hotels" (post #338) [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Post 338 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Post 338 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Running post-processing for post 343 [] []
+
+[2021-06-14 10:40:06] merlin-logger.WARNING: Could not find the author for "Disclosing the Secrets of Success in Akomo." (post #343) [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Post 343 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Post 343 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Running post-processing for post 346 [] []
+
+[2021-06-14 10:40:06] merlin-logger.WARNING: Could not find the author for "The Top Hotel Trends to Watch in 2020." (post #346) [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Post 346 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Post 346 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Running post-processing for post 532 [] []
+
+[2021-06-14 10:40:06] merlin-logger.WARNING: Could not find the author for "Top 10 Summer Season Hotels by Forbes" (post #532) [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Post 532 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Post 532 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Running post-processing for post 540 [] []
+
+[2021-06-14 10:40:06] merlin-logger.WARNING: Could not find the author for "Disclosing the Secrets of Success in Akomo" (post #540) [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Post 540 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Post 540 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Running post-processing for post 542 [] []
+
+[2021-06-14 10:40:06] merlin-logger.WARNING: Could not find the author for "Seven Best Things To Do In Buckeye Arizona." (post #542) [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Post 542 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Post 542 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Running post-processing for post 544 [] []
+
+[2021-06-14 10:40:06] merlin-logger.WARNING: Could not find the author for "The Top Hotel Trends to Watch in 2020." (post #544) [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Post 544 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Post 544 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Running post-processing for post 552 [] []
+
+[2021-06-14 10:40:06] merlin-logger.WARNING: Could not find the author for "Top 10 Summer Season Hotels by Forbes" (post #552) [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Post 552 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Post 552 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Running post-processing for post 795 [] []
+
+[2021-06-14 10:40:06] merlin-logger.WARNING: Could not find the author for "Top 10 Summer Season Hotels by Forbes" (post #795) [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Post 795 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Post 795 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Running post-processing for post 802 [] []
+
+[2021-06-14 10:40:06] merlin-logger.WARNING: Could not find the author for "The Top Hotel Trends to Watch in 2020." (post #802) [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Post 802 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Post 802 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Running post-processing for post 805 [] []
+
+[2021-06-14 10:40:06] merlin-logger.WARNING: Could not find the author for "Disclosing the Secrets of Success in Akomo." (post #805) [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Post 805 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:06] merlin-logger.DEBUG: Post 805 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Running post-processing for post 807 [] []
+
+[2021-06-14 10:40:07] merlin-logger.WARNING: Could not find the author for "Acceptance middletons me discretion boisterous" (post #807) [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Post 807 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Post 807 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Running post-processing for post 809 [] []
+
+[2021-06-14 10:40:07] merlin-logger.WARNING: Could not find the author for "Disclosing the Secrets of Success in Akomo." (post #809) [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Post 809 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Post 809 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Running post-processing for post 811 [] []
+
+[2021-06-14 10:40:07] merlin-logger.WARNING: Could not find the author for "Top 10 Summer Season Hotels by Forbes" (post #811) [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Post 811 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Post 811 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Running post-processing for post 814 [] []
+
+[2021-06-14 10:40:07] merlin-logger.WARNING: Could not find the author for "Acceptance middletons me discretion boisterous" (post #814) [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Post 814 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Post 814 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Running post-processing for post 135 [] []
+
+[2021-06-14 10:40:07] merlin-logger.WARNING: Could not find the author for "Restauramt" (post #135) [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Post 135 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Post 135 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Running post-processing for post 139 [] []
+
+[2021-06-14 10:40:07] merlin-logger.WARNING: Could not find the author for "Harry Anderson" (post #139) [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Post 139 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Post 139 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Running post-processing for post 140 [] []
+
+[2021-06-14 10:40:07] merlin-logger.WARNING: Could not find the author for "Kavin Petrson" (post #140) [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Post 140 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Post 140 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Running post-processing for post 153 [] []
+
+[2021-06-14 10:40:07] merlin-logger.WARNING: Could not find the author for "Spa Salon" (post #153) [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Post 153 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Post 153 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Running post-processing for post 154 [] []
+
+[2021-06-14 10:40:07] merlin-logger.WARNING: Could not find the author for "Swimming Pool" (post #154) [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Post 154 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Post 154 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Running post-processing for post 155 [] []
+
+[2021-06-14 10:40:07] merlin-logger.WARNING: Could not find the author for "Buffet Facility" (post #155) [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Post 155 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Post 155 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Running post-processing for post 157 [] []
+
+[2021-06-14 10:40:07] merlin-logger.WARNING: Could not find the author for "Conference Room" (post #157) [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Post 157 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Post 157 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Running post-processing for post 159 [] []
+
+[2021-06-14 10:40:07] merlin-logger.WARNING: Could not find the author for "Fitness Zone" (post #159) [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Post 159 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Post 159 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Running post-processing for post 160 [] []
+
+[2021-06-14 10:40:07] merlin-logger.WARNING: Could not find the author for "Game Room" (post #160) [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Post 160 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Post 160 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Running post-processing for post 162 [] []
+
+[2021-06-14 10:40:07] merlin-logger.WARNING: Could not find the author for "Cinema Hall" (post #162) [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Post 162 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Post 162 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Running post-processing for post 163 [] []
+
+[2021-06-14 10:40:07] merlin-logger.WARNING: Could not find the author for "Harry Anderson" (post #163) [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Post 163 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Post 163 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Running post-processing for post 164 [] []
+
+[2021-06-14 10:40:07] merlin-logger.WARNING: Could not find the author for "Kavin Petrson" (post #164) [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Post 164 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Post 164 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Running post-processing for post 165 [] []
+
+[2021-06-14 10:40:07] merlin-logger.WARNING: Could not find the author for "Harry Anderson" (post #165) [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Post 165 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Post 165 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Running post-processing for post 234 [] []
+
+[2021-06-14 10:40:07] merlin-logger.WARNING: Could not find the author for "Jason Momoa" (post #234) [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Post 234 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Post 234 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Running post-processing for post 236 [] []
+
+[2021-06-14 10:40:07] merlin-logger.WARNING: Could not find the author for "Jason Momoa" (post #236) [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Post 236 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Post 236 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Running post-processing for post 237 [] []
+
+[2021-06-14 10:40:07] merlin-logger.WARNING: Could not find the author for "Jason Momoa" (post #237) [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Post 237 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Post 237 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Running post-processing for post 261 [] []
+
+[2021-06-14 10:40:07] merlin-logger.WARNING: Could not find the author for "Project Image 4" (post #261) [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Post 261 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Post 261 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Running post-processing for post 262 [] []
+
+[2021-06-14 10:40:07] merlin-logger.WARNING: Could not find the author for "Project Image 5" (post #262) [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Post 262 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Post 262 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Running post-processing for post 312 [] []
+
+[2021-06-14 10:40:07] merlin-logger.WARNING: Could not find the author for "Harry Anderson" (post #312) [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Post 312 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:07] merlin-logger.DEBUG: Post 312 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:08] merlin-logger.DEBUG: Running post-processing for post 318 [] []
+
+[2021-06-14 10:40:08] merlin-logger.WARNING: Could not find the author for "Harry Anderson" (post #318) [] []
+
+[2021-06-14 10:40:08] merlin-logger.DEBUG: Post 318 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:08] merlin-logger.DEBUG: Post 318 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:08] merlin-logger.DEBUG: Running post-processing for post 1007 [] []
+
+[2021-06-14 10:40:08] merlin-logger.WARNING: Could not find the author for "Contact form 1" (post #1007) [] []
+
+[2021-06-14 10:40:08] merlin-logger.DEBUG: Post 1007 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:08] merlin-logger.DEBUG: Post 1007 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:08] merlin-logger.DEBUG: Running post-processing for post 319 [] []
+
+[2021-06-14 10:40:08] merlin-logger.WARNING: Could not find the author for "Harry Anderson" (post #319) [] []
+
+[2021-06-14 10:40:08] merlin-logger.DEBUG: Post 319 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:08] merlin-logger.DEBUG: Post 319 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:08] merlin-logger.DEBUG: Running post-processing for post 320 [] []
+
+[2021-06-14 10:40:08] merlin-logger.WARNING: Could not find the author for "Harry Anderson" (post #320) [] []
+
+[2021-06-14 10:40:08] merlin-logger.DEBUG: Post 320 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:08] merlin-logger.DEBUG: Post 320 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:08] merlin-logger.DEBUG: Running post-processing for post 649 [] []
+
+[2021-06-14 10:40:08] merlin-logger.WARNING: Could not find the author for "Contact Us Form" (post #649) [] []
+
+[2021-06-14 10:40:08] merlin-logger.DEBUG: Post 649 was imported with author "Chuwy", but could not be found [] []
+
+[2021-06-14 10:40:08] merlin-logger.DEBUG: Post 649 was marked for post-processing, but none was required. [] []
+
+[2021-06-14 10:40:08] merlin-logger.INFO: Starting remapping of featured images [] []
+
+[2021-06-14 10:40:09] merlin-logger.INFO: The content import AJAX call will be executed with this import data {"title":"Widgets","data":"D:\\codeando\\harassanjose/wp-content/themes/akomo/demo-import/content/widgets.json"} []
+
+[2021-06-14 10:40:09] merlin-logger.DEBUG: Default Sidebar :   Buscar - No Title - Imported Entradas recientes - No Title - Imported Comentarios recientes - No Title - Imported  Footer Widget :   Akomo About Company - No Title - Imported Menú de Navegación - Quick Links - Imported Akomo Popular Post - Recent Post - Imported Akomo Contact Info - Contact Us - Imported  Blog Listing :   Buscar - No Title - Imported Categorías - Post Categories - Imported Akomo Popular Post - Popular Post - Imported Nube de etiquetas - Tags - Imported Archivos - Archives - Imported   [] []
+
+[2021-06-14 10:40:10] merlin-logger.INFO: The content import AJAX call will be executed with this import data {"title":"Redux Options","data":[{"file_path":"D:\\codeando\\harassanjose/wp-content/themes/akomo/demo-import/content/redux_options.json","option_name":"akomo_options"}]} []
+
+[2021-06-14 10:40:10] merlin-logger.DEBUG: The Redux Framework data was imported {"file_path":"D:\\codeando\\harassanjose/wp-content/themes/akomo/demo-import/content/redux_options.json","option_name":"akomo_options"} []
+
+[2021-06-14 10:40:12] merlin-logger.INFO: The content import AJAX call will be executed with this import data {"title":"After import setup","data":0} []
+
+[2021-06-14 10:40:17] merlin-logger.DEBUG: The final step has been displayed [] []
+
+[2021-06-15 21:50:27] merlin-logger.DEBUG: The final step has been displayed [] []

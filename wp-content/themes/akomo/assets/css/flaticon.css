@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'flaticon';
+  src: url('../font/flaticon.eot');
+  src: url('../font/flaticon.eot?#iefix') format('embedded-opentype'),
+       url('../font/flaticon.woff2') format('woff2'),
+       url('../font/flaticon.woff') format('woff'),
+       url('../font/flaticon.ttf') format('truetype'),
+       url('../font/flaticon.svg#flaticon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'flaticon';
+    src: url('../font/flaticon.svg?76210445#flaticon') format('svg');
+  }
+}
+*/
+ 
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+  font-style: normal;
+}
+
+ 
+.flaticon-iconfrigobar:before { content: '\e800'; } 
+.flaticon-iconparque:before { content: '\e801'; } 
